@@ -1,0 +1,178 @@
+.content {
+    width: 1500px;
+    height: auto;
+    margin: auto;
+}
+
+hr {
+    border: solid 1px;
+}
+
+.head-items {
+    width: 1500px;
+    height: auto;
+    float: left;
+    text-align: right;
+}
+
+.head-text {
+    width: 150px;
+    float: left;
+    margin-left: 10px;
+}
+
+.head-items-right {
+    width: 1200px;
+    margin-top: 20px;
+    margin-right: 60px;
+    float: right;
+    text-align-all: left;
+}
+
+.amount {
+    width: 350px;
+    margin-right: 40px;
+    float: right;
+    text-align: center;
+    font-size: 20px;
+}
+
+.amount b {
+    color: red;
+    font-size: 30px;
+}
+
+.buyBtn {
+    float: right;
+    width: 100px;
+}
+
+.titles {
+    width: 1430px;
+    height: 45px;
+    margin: auto;
+}
+
+.titles-checkAll {
+    float: left;
+    width: 200px;
+    height: 45px;
+    font-size: 14px;
+}
+
+.titles-goods-name {
+    float: left;
+    width: 500px;
+    height: 45px;
+    padding-top: 9px;
+    font-size: 14px;
+}
+
+.titles-goods-price {
+    float: left;
+    width: 180px;
+    height: 45px;
+    padding-top: 9px;
+    font-size: 14px;
+}
+
+.titles-goods-quantity {
+    float: left;
+    width: 200px;
+    height: 45px;
+    padding-top: 9px;
+    font-size: 14px;
+}
+
+.titles-goods-amount {
+    float: left;
+    width: 180px;
+    height: 45px;
+    padding-top: 9px;
+    font-size: 14px;
+}
+
+.titles-goods-operate {
+    float: left;
+    width: 160px;
+    height: 45px;
+    padding-top: 9px;
+    font-size: 14px;
+}
+
+.goods {
+    width: 1430px;
+    height: 130px;
+    margin: auto;
+    margin-top: 30px;
+    background: rgb(242, 242, 242);
+    border: solid 1px rgb(204, 204, 204);
+}
+.goods a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.goods-attribute {
+    float: left;
+    width: 700px;
+    height: 130px;
+    font-size: 14px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 25px;
+}
+
+.goods-img {
+    float: left;
+    margin-left: 5px;
+    width: 160px;
+    height: 110px;
+}
+
+.goods-name {
+    float: left;
+    width: 300px;
+    height: 110px;
+}
+
+.goods-name a:hover{
+    color:  red;
+}
+.goods-price {
+    float: left;
+    width: 180px;
+    height: 130px;
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+
+.goods-quantity {
+    float: left;
+    width: 200px;
+    height: 130px;
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+
+.num-input {
+    float: left;
+    width: 110px;
+}
+
+.goods-amount {
+    float: left;
+    width: 180px;
+    height: 130px;
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+
+.goods-operation {
+    float: left;
+    width: 160px;
+    height: 130px;
+    font-size: 14px;
+    padding-top: 20px;
+    padding-bottom: 25px;
+}

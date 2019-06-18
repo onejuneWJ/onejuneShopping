@@ -1,0 +1,23 @@
+.main-content {
+	background: white;
+	margin: auto;
+	width: 1500px;
+	height: 900px;
+	border: solid 1px gainsboro;
+	border-top: hidden;
+}
+
+.left-nav {
+	float: left;
+	width: 250px;
+	height: 900px;
+	border-right: solid 1px gainsboro;
+}
+
+.right-content{
+	float: left;
+	width: 1248px;
+	height: 900px;
+	background: rgb(242, 242, 242);
+	border-right: solid 1px gainsboro;
+}

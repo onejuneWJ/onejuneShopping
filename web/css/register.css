@@ -1,0 +1,82 @@
+.register-head {
+    width: 1000px;
+    height: 87px;
+    margin: auto;
+}
+
+.register-head-img {
+    float: left;
+    height: 85px;
+    width: 140px;
+}
+
+.register-head-text {
+    float: left;
+    height: 85px;
+    width: 140px;
+    padding-top: 25px;
+    color: #000000;
+    font-family: "微软雅黑";
+    font-size: 30px;
+}
+
+.register-body {
+    margin: auto;
+    width: 580px;
+    height: 530px;
+}
+
+.register-body-input-left {
+    float: left;
+    width: 130px;
+    height: 530px;
+}
+
+.register-body-input-left-text {
+    float: left;
+    margin-top: 20px;
+    padding-top: 10px;
+    font-family: "微软雅黑";
+    font-size: 18px;
+    height: 48px;
+    width: 130px;
+}
+
+.register-body-input-right {
+    float: left;
+    margin-left: 18px;
+    width: 430px;
+    height: 530px;
+}
+
+.register-body-input-right-inputs {
+    float: left;
+    margin-top: 20px;
+    width: 220px;
+    height: 48px;
+}
+
+.register-body-input-right-error {
+    float: left;
+    width: 200px;
+    height: 48px;
+    color: red;
+    margin-top: 20px;
+    padding-top: 12px;
+    padding-left: 5px;
+}
+
+.fa-exclamation-circle {
+    color: rgb(0, 191, 255);
+}
+
+.fa-check-circle-o {
+    color: rgb(107, 200, 39);
+}
+
+.footer {
+    margin: auto;
+    margin-top: 50px;
+    width: 1500px;
+    height: 100px;
+}

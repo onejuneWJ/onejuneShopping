@@ -1,0 +1,1317 @@
+{
+  "auctions": [
+    {
+      "cat": "1512",
+      "title": "苹果 iPhone 8 Plus ",
+      "pic_url": "//g-search2.alicdn.com/img/bao/uploaded/i4/TB1ZPsQcVooBKNjSZPhXXc2CXXa.jpg",
+      "price": "5188",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏5.5\"",
+      "month_sales": "63522",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=è¹æ+iPhone+8+Plus+&app=detailproduct&pspuid=1544485&cat=1512&from_pos=20_1512.default_0_1_1544485&spu_style=grid#spudetail-sortbar",
+        "num": "1202"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=è¹æ+iPhone+8+Plus+&app=detailproduct&pspuid=1544485&cat=1512&from_pos=20_1512.default_0_1_1544485&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "双镜头光学变焦"
+        },
+        {
+          "tag": "原彩显示技术"
+        },
+        {
+          "tag": "全新感光元件"
+        }
+      ],
+      "cmt_count": 0,
+      "tag": "ishot"
+    },
+    {
+      "cat": "1512",
+      "title": "苹果 iPhone X",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/TB1nYk_aGLN8KJjSZFGXXbjrVXa.jpg",
+      "price": "100",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏5.8\"",
+      "month_sales": "77397",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=è¹æ+iPhone+X&app=detailproduct&pspuid=1544486&cat=1512&from_pos=20_1512.default_0_2_1544486&spu_style=grid#spudetail-sortbar",
+        "num": "1154"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=è¹æ+iPhone+X&app=detailproduct&pspuid=1544486&cat=1512&from_pos=20_1512.default_0_2_1544486&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "面容ID识别"
+        },
+        {
+          "tag": "前置深感摄像头"
+        },
+        {
+          "tag": "人像光效"
+        }
+      ],
+      "cmt_count": 0,
+      "tag": "ishot"
+    },
+    {
+      "cat": "1512",
+      "title": "华为 nova 3",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB14UaEi3HqK1RjSZFEXXcGMXXa.jpg",
+      "price": "2199",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "超大屏6.3\"",
+      "month_sales": "31450",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+nova+3&app=detailproduct&pspuid=1612177&cat=1512&from_pos=20_1512.default_0_3_1612177&spu_style=grid#spudetail-sortbar",
+        "num": "406"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+nova+3&app=detailproduct&pspuid=1612177&cat=1512&from_pos=20_1512.default_0_3_1612177&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "3D炫彩机身"
+        },
+        {
+          "tag": "2400万高清四摄"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "小米 小米手机8",
+      "pic_url": "//g-search2.alicdn.com/img/bao/uploaded/i4/TB1IxdzpwHqK1RjSZFEXXcGMXXa.jpg",
+      "price": "2228",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "超大屏6.21\"",
+      "month_sales": "26934",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+å°ç±³ææº8&app=detailproduct&pspuid=1612229&cat=1512&from_pos=20_1512.default_0_4_1612229&spu_style=grid#spudetail-sortbar",
+        "num": "429"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+å°ç±³ææº8&app=detailproduct&pspuid=1612229&cat=1512&from_pos=20_1512.default_0_4_1612229&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "超清四曲面"
+        },
+        {
+          "tag": "AI超感光双摄"
+        },
+        {
+          "tag": "红外人脸识别"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "荣耀 荣耀10",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB1Q575d8smBKNjSZFsXXaXSVXa.jpg",
+      "price": "1199",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏5.84\"",
+      "month_sales": "26860",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=è£è+è£è10&app=detailproduct&pspuid=1604427&cat=1512&from_pos=20_1512.default_0_5_1604427&spu_style=grid#spudetail-sortbar",
+        "num": "478"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=è£è+è£è10&app=detailproduct&pspuid=1604427&cat=1512&from_pos=20_1512.default_0_5_1604427&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "2400万AI摄影"
+        },
+        {
+          "tag": "3D人像光效"
+        },
+        {
+          "tag": "超级快充"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "苹果 iPhone 8",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB14ulLc26TBKNjSZJiXXbKVFXa.jpg",
+      "price": "4538",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "中屏4.7\"",
+      "month_sales": "20386",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=è¹æ+iPhone+8&app=detailproduct&pspuid=1544484&cat=1512&from_pos=20_1512.default_0_6_1544484&spu_style=grid#spudetail-sortbar",
+        "num": "769"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=è¹æ+iPhone+8&app=detailproduct&pspuid=1544484&cat=1512&from_pos=20_1512.default_0_6_1544484&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "双面全玻璃设计"
+        },
+        {
+          "tag": "抗水防尘"
+        },
+        {
+          "tag": "支持无线充电"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "华为 nova 3i",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB1xQutiYvpK1RjSZPiXXbmwXXa.jpg",
+      "price": "1399",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "超大屏6.3\"",
+      "month_sales": "18842",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+nova+3i&app=detailproduct&pspuid=1630061&cat=1512&from_pos=20_1512.default_0_7_1630061&spu_style=grid#spudetail-sortbar",
+        "num": "309"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+nova+3i&app=detailproduct&pspuid=1630061&cat=1512&from_pos=20_1512.default_0_7_1630061&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "AI智能魅力双摄"
+        },
+        {
+          "tag": "智慧场景识别"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "荣耀 荣耀Play",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/TB1oVrca9zqK1RjSZFHXXb3CpXa.jpg",
+      "price": "1699",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "超大屏6.3\"",
+      "month_sales": "24893",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=è£è+è£èPlay&app=detailproduct&pspuid=1619840&cat=1512&from_pos=20_1512.default_0_8_1619840&spu_style=grid#spudetail-sortbar",
+        "num": "363"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=è£è+è£èPlay&app=detailproduct&pspuid=1619840&cat=1512&from_pos=20_1512.default_0_8_1619840&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "人工智能NPU"
+        },
+        {
+          "tag": "前后1600万AI双摄"
+        },
+        {
+          "tag": "3D人像光效"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "华为 P20",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB1fyILc_mWBKNjSZFBXXXxUFXa.jpg",
+      "price": "2888",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏5.8\"",
+      "month_sales": "19159",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+P20&app=detailproduct&pspuid=1591360&cat=1512&from_pos=20_1512.default_0_9_1591360&spu_style=grid#spudetail-sortbar",
+        "num": "443"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+P20&app=detailproduct&pspuid=1591360&cat=1512&from_pos=20_1512.default_0_9_1591360&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "徕卡双镜头"
+        },
+        {
+          "tag": "AI智慧全面屏 "
+        },
+        {
+          "tag": "杜比全景声"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "小米 红米6Pro",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB18POzjaAoBKNjSZSyXXaHAVXa.jpg",
+      "price": "799",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏5.84\"",
+      "month_sales": "34359",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+çº¢ç±³6Pro&app=detailproduct&pspuid=1624932&cat=1512&from_pos=20_1512.default_0_10_1624932&spu_style=grid#spudetail-sortbar",
+        "num": "275"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+çº¢ç±³6Pro&app=detailproduct&pspuid=1624932&cat=1512&from_pos=20_1512.default_0_10_1624932&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "异形全面屏"
+        },
+        {
+          "tag": "后置1200万双摄"
+        },
+        {
+          "tag": "4000mAh超大电池"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "vivo Z1",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB1.EGMpXzqK1RjSZSgXXcpAVXa.jpg",
+      "price": "1298",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "超大屏6.26\"",
+      "month_sales": "21557",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=vivo+Z1&app=detailproduct&pspuid=1615342&cat=1512&from_pos=20_1512.default_0_11_1615342&spu_style=grid#spudetail-sortbar",
+        "num": "105"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=vivo+Z1&app=detailproduct&pspuid=1615342&cat=1512&from_pos=20_1512.default_0_11_1615342&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "3D炫彩流光机身"
+        },
+        {
+          "tag": "后置1300万AI智慧双摄"
+        }
+      ],
+      "cmt_count": 0,
+      "tag": "islower"
+    },
+    {
+      "cat": "1512",
+      "title": "华为 P20 Pro",
+      "pic_url": "//g-search2.alicdn.com/img/bao/uploaded/i4/TB1ezToc9MmBKNjSZTEXXasKpXa.jpg",
+      "price": "3788",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "超大屏6.1\"",
+      "month_sales": "11227",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+P20+Pro&app=detailproduct&pspuid=1591361&cat=1512&from_pos=20_1512.default_0_12_1591361&spu_style=grid#spudetail-sortbar",
+        "num": "411"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+P20+Pro&app=detailproduct&pspuid=1591361&cat=1512&from_pos=20_1512.default_0_12_1591361&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "4000万徕卡三摄"
+        },
+        {
+          "tag": "AI智慧摄影"
+        },
+        {
+          "tag": "智慧续航"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "小米 黑鲨游戏手机Helo",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i3/TB10ebakmrqK1RjSZK9XXXyypXa.jpg",
+      "price": "3199",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "超大屏6.01\"",
+      "month_sales": "3271",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+é»é²¨æ¸¸æææºHelo&app=detailproduct&pspuid=1653858&cat=1512&from_pos=20_1512.default_0_13_1653858&spu_style=grid#spudetail-sortbar",
+        "num": "72"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+é»é²¨æ¸¸æææºHelo&app=detailproduct&pspuid=1653858&cat=1512&from_pos=20_1512.default_0_13_1653858&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "独立图像处理芯片"
+        },
+        {
+          "tag": "手游HDR时代的开拓者"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "小米 6X",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/TB1cXuLelnTBKNjSZPfXXbf1XXa.jpg",
+      "price": "1078",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏5.99\"",
+      "month_sales": "18701",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+6X&app=detailproduct&pspuid=1585474&cat=1512&from_pos=20_1512.default_0_14_1585474&spu_style=grid#spudetail-sortbar",
+        "num": "359"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+6X&app=detailproduct&pspuid=1585474&cat=1512&from_pos=20_1512.default_0_14_1585474&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "前后2000万，自拍更美"
+        },
+        {
+          "tag": "骁龙660 AIE处理器"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "小米 小米手机8 SE",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB1319dicj_B1NjSZFHXXaDWpXa.jpg",
+      "price": "1488",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏5.88\"",
+      "month_sales": "14279",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+å°ç±³ææº8+SE&app=detailproduct&pspuid=1539251&cat=1512&from_pos=20_1512.default_0_15_1539251&spu_style=grid#spudetail-sortbar",
+        "num": "264"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+å°ç±³ææº8+SE&app=detailproduct&pspuid=1539251&cat=1512&from_pos=20_1512.default_0_15_1539251&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "AI超感光双摄"
+        },
+        {
+          "tag": "持久待机"
+        },
+        {
+          "tag": "录制视频清晰稳定"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "小米 红米6A",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB1FmBkilnTBKNjSZPfXXbf1XXa.jpg",
+      "price": "499",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "中屏5.45\"",
+      "month_sales": "41081",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+çº¢ç±³6A&app=detailproduct&pspuid=1593086&cat=1512&from_pos=20_1512.default_0_16_1593086&spu_style=grid#spudetail-sortbar",
+        "num": "243"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+çº¢ç±³6A&app=detailproduct&pspuid=1593086&cat=1512&from_pos=20_1512.default_0_16_1593086&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "小巧高性能"
+        },
+        {
+          "tag": "AI人脸解锁"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "华为 畅享8",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/TB19iaxb5MnBKNjSZFzXXc_qVXa.jpg",
+      "price": "599",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏5.99\"",
+      "month_sales": "23782",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+çäº«8&app=detailproduct&pspuid=1590388&cat=1512&from_pos=20_1512.default_0_17_1590388&spu_style=grid#spudetail-sortbar",
+        "num": "307"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+çäº«8&app=detailproduct&pspuid=1590388&cat=1512&from_pos=20_1512.default_0_17_1590388&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "高清全面屏"
+        },
+        {
+          "tag": "柔光自拍"
+        },
+        {
+          "tag": "人脸识别"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "vivo NEX 旗舰版",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB1Ua2QinCWBKNjSZFtXXaC3FXa.jpg",
+      "price": "3498",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "超大屏6.59\"",
+      "month_sales": "4053",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=vivo+NEX+æè°ç&app=detailproduct&pspuid=1623200&cat=1512&from_pos=20_1512.default_0_18_1623200&spu_style=grid#spudetail-sortbar",
+        "num": "104"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=vivo+NEX+æè°ç&app=detailproduct&pspuid=1623200&cat=1512&from_pos=20_1512.default_0_18_1623200&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "零界全面屏"
+        },
+        {
+          "tag": "升降式前置摄像头"
+        },
+        {
+          "tag": "Jovi智能语音助手"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "魅族 16th",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB1d9NnmYsrBKNjSZFpXXcXhFXa.jpg",
+      "price": "2648",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏6.0\"",
+      "month_sales": "7652",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=é­æ+16th&app=detailproduct&pspuid=1631437&cat=1512&from_pos=20_1512.default_0_19_1631437&spu_style=grid#spudetail-sortbar",
+        "num": "164"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=é­æ+16th&app=detailproduct&pspuid=1631437&cat=1512&from_pos=20_1512.default_0_19_1631437&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "硬件级AI场景识别"
+        },
+        {
+          "tag": "光学屏下指纹"
+        }
+      ],
+      "cmt_count": 0,
+      "tag": "islower"
+    },
+    {
+      "cat": "1512",
+      "title": "小米 红米Note 5",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB13t.ClkUmBKNjSZFOXXab2XXa.jpg",
+      "price": "785",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏5.99\"",
+      "month_sales": "18623",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+çº¢ç±³Note+5&app=detailproduct&pspuid=1591362&cat=1512&from_pos=20_1512.default_0_20_1591362&spu_style=grid#spudetail-sortbar",
+        "num": "268"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+çº¢ç±³Note+5&app=detailproduct&pspuid=1591362&cat=1512&from_pos=20_1512.default_0_20_1591362&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "AI双摄"
+        },
+        {
+          "tag": "骁龙636高性能处理器"
+        },
+        {
+          "tag": "暗光逆光更出色"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "三星 Galaxy S9+ ",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/TB1tTd0af6TBKNjSZJiXXbKVFXa.jpg",
+      "price": "6148",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "超大屏6.2\"",
+      "month_sales": "5929",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=ä¸æ+Galaxy+S9++&app=detailproduct&pspuid=1574632&cat=1512&from_pos=20_1512.default_0_21_1574632&spu_style=grid#spudetail-sortbar",
+        "num": "271"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=ä¸æ+Galaxy+S9++&app=detailproduct&pspuid=1574632&cat=1512&from_pos=20_1512.default_0_21_1574632&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "凝时拍摄"
+        },
+        {
+          "tag": "智能可变光圈"
+        },
+        {
+          "tag": "背景虚化实时对焦"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "vivo X21",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB1UWnxa5LaK1RjSZFxXXamPFXa.jpg",
+      "price": "2198",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "超大屏6.28\"",
+      "month_sales": "5682",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=vivo+X21&app=detailproduct&pspuid=1592494&cat=1512&from_pos=20_1512.default_0_22_1592494&spu_style=grid#spudetail-sortbar",
+        "num": "232"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=vivo+X21&app=detailproduct&pspuid=1592494&cat=1512&from_pos=20_1512.default_0_22_1592494&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "AI智慧拍照"
+        },
+        {
+          "tag": "人工智能美颜"
+        },
+        {
+          "tag": "面部识别2.0"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "魅族 16th Plus ",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/TB1eVaAiSzqK1RjSZFpXXakSXXa.jpg",
+      "price": "2968",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "超大屏6.5\"",
+      "month_sales": "4962",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=é­æ+16th+Plus+&app=detailproduct&pspuid=1631438&cat=1512&from_pos=20_1512.default_0_23_1631438&spu_style=grid#spudetail-sortbar",
+        "num": "111"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=é­æ+16th+Plus+&app=detailproduct&pspuid=1631438&cat=1512&from_pos=20_1512.default_0_23_1631438&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "前置2000万AI美颜"
+        },
+        {
+          "tag": "骁龙845AI加速"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "华为 MATE RS保时捷版",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB1qXJPc5CYBuNkSnaVXXcMsVXa.jpg",
+      "price": "8888",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏6.0\"",
+      "month_sales": "1617",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+MATE+RSä¿æ¶æ·ç&app=detailproduct&pspuid=1604605&cat=1512&from_pos=20_1512.default_0_24_1604605&spu_style=grid#spudetail-sortbar",
+        "num": "158"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+MATE+RSä¿æ¶æ·ç&app=detailproduct&pspuid=1604605&cat=1512&from_pos=20_1512.default_0_24_1604605&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "八曲流畅弧线"
+        },
+        {
+          "tag": "屏幕指纹一步解锁"
+        },
+        {
+          "tag": "IP67级防溅抗水"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "小米 红米6",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB15d8.iVkoBKNjSZFkXXb4tFXa.jpg",
+      "price": "669",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "中屏5.45\"",
+      "month_sales": "21619",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+çº¢ç±³6&app=detailproduct&pspuid=1621587&cat=1512&from_pos=20_1512.default_0_25_1621587&spu_style=grid#spudetail-sortbar",
+        "num": "191"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+çº¢ç±³6&app=detailproduct&pspuid=1621587&cat=1512&from_pos=20_1512.default_0_25_1621587&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "高清全面屏"
+        },
+        {
+          "tag": "AI人像模式"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "华为 Mate 10 Pro  ",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/TB1SojEfBfM8KJjSZFOXXXr5XXa.jpg",
+      "price": "2496",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏6.0\"",
+      "month_sales": "6263",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+Mate+10+Pro++&app=detailproduct&pspuid=1547126&cat=1512&from_pos=20_1512.default_0_26_1547126&spu_style=grid#spudetail-sortbar",
+        "num": "347"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+Mate+10+Pro++&app=detailproduct&pspuid=1547126&cat=1512&from_pos=20_1512.default_0_26_1547126&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "徕卡双镜头"
+        },
+        {
+          "tag": "支持异源投屏"
+        },
+        {
+          "tag": "防溅抗水防尘"
+        }
+      ],
+      "cmt_count": 0,
+      "tag": "islower"
+    },
+    {
+      "cat": "1512",
+      "title": "华为 NOVA 2S",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB17CHYc5MnBKNjSZFCXXX0KFXa.jpg",
+      "price": "1028",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏6.0\"",
+      "month_sales": "9121",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+NOVA+2S&app=detailproduct&pspuid=1573954&cat=1512&from_pos=20_1512.default_0_27_1573954&spu_style=grid#spudetail-sortbar",
+        "num": "340"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+NOVA+2S&app=detailproduct&pspuid=1573954&cat=1512&from_pos=20_1512.default_0_27_1573954&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "高颜值爱自拍"
+        },
+        {
+          "tag": "2000万四镜头"
+        },
+        {
+          "tag": "人脸识别快速解锁"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "小米 MIX 2S",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/TB1hKq7bHZnBKNjSZFrXXaRLFXa.jpg",
+      "price": "2278",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏5.99\"",
+      "month_sales": "4787",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+MIX+2S&app=detailproduct&pspuid=1590706&cat=1512&from_pos=20_1512.default_0_28_1590706&spu_style=grid#spudetail-sortbar",
+        "num": "290"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+MIX+2S&app=detailproduct&pspuid=1590706&cat=1512&from_pos=20_1512.default_0_28_1590706&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "AI超感光双摄"
+        },
+        {
+          "tag": "四曲面陶瓷"
+        },
+        {
+          "tag": "无线快充"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "OPPO A5",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/TB1U..TkDmWBKNjSZFBXXXxUFXa.jpg",
+      "price": "1199",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "超大屏6.2\"",
+      "month_sales": "7258",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=OPPO+A5&app=detailproduct&pspuid=1626886&cat=1512&from_pos=20_1512.default_0_29_1626886&spu_style=grid#spudetail-sortbar",
+        "num": "161"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=OPPO+A5&app=detailproduct&pspuid=1626886&cat=1512&from_pos=20_1512.default_0_29_1626886&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "全屏双摄"
+        },
+        {
+          "tag": "强悍续航"
+        },
+        {
+          "tag": "AI智慧美颜"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "华为 Mate 10 ",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB1O8hRXyjQBKNjSZFnXXa_DpXa.jpg",
+      "price": "2398",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏5.9\"",
+      "month_sales": "3784",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+Mate+10+&app=detailproduct&pspuid=1547125&cat=1512&from_pos=20_1512.default_0_30_1547125&spu_style=grid#spudetail-sortbar",
+        "num": "415"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+Mate+10+&app=detailproduct&pspuid=1547125&cat=1512&from_pos=20_1512.default_0_30_1547125&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "四曲面玻璃机身"
+        },
+        {
+          "tag": "徕卡双镜头"
+        },
+        {
+          "tag": "一部手机，畅游天下"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "美图 T9",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB1spKYgj7nBKNjSZLeXXbxCFXa.jpg",
+      "price": "2499",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "超大屏6.01\"",
+      "month_sales": "4052",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=ç¾å¾+T9&app=detailproduct&pspuid=1617079&cat=1512&from_pos=20_1512.default_0_31_1617079&spu_style=grid#spudetail-sortbar",
+        "num": "162"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=ç¾å¾+T9&app=detailproduct&pspuid=1617079&cat=1512&from_pos=20_1512.default_0_31_1617079&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "3D曲面流线型机身"
+        },
+        {
+          "tag": "全像素PDAF对焦"
+        },
+        {
+          "tag": "IPX3等级防水"
+        }
+      ],
+      "cmt_count": 0,
+      "tag": "islower"
+    },
+    {
+      "cat": "1512",
+      "title": "360手机 N7 Pro",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB1Ru2irbZnBKNjSZFKXXcGOVXa.jpg",
+      "price": "869",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏5.99\"",
+      "month_sales": "7919",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=360ææº+N7+Pro&app=detailproduct&pspuid=1626737&cat=1512&from_pos=20_1512.default_0_32_1626737&spu_style=grid#spudetail-sortbar",
+        "num": "98"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=360ææº+N7+Pro&app=detailproduct&pspuid=1626737&cat=1512&from_pos=20_1512.default_0_32_1626737&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "AI前后双摄高清摄影"
+        },
+        {
+          "tag": "双玻璃金属设计"
+        }
+      ],
+      "cmt_count": 0,
+      "tag": "islower"
+    },
+    {
+      "cat": "1512",
+      "title": "三星 SM-G9298",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/TB188YISFXXXXaeXXXXUyomFFXX_095140.jpg",
+      "price": "8288",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "小屏4.2\"",
+      "month_sales": "1983",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=ä¸æ+SM-G9298&app=detailproduct&pspuid=1535512&cat=1512&from_pos=20_1512.default_0_33_1535512&spu_style=grid#spudetail-sortbar",
+        "num": "66"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=ä¸æ+SM-G9298&app=detailproduct&pspuid=1535512&cat=1512&from_pos=20_1512.default_0_33_1535512&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "经典双屏翻盖设计"
+        },
+        {
+          "tag": "全像素双核摄像头"
+        }
+      ],
+      "cmt_count": 0,
+      "tag": "islower"
+    },
+    {
+      "cat": "1512",
+      "title": "华为 畅享8 Plus",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB1PB9ob5CYBuNkHFCcXXcHtVXa.jpg",
+      "price": "599",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏5.93\"",
+      "month_sales": "7292",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+çäº«8+Plus&app=detailproduct&pspuid=1592843&cat=1512&from_pos=20_1512.default_0_34_1592843&spu_style=grid#spudetail-sortbar",
+        "num": "298"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+çäº«8+Plus&app=detailproduct&pspuid=1592843&cat=1512&from_pos=20_1512.default_0_34_1592843&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "超清全面屏"
+        },
+        {
+          "tag": "前后双摄"
+        },
+        {
+          "tag": "大容量长续航"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "小米 Max 3",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB10flplA7mBKNjSZFyXXbydFXa.jpg",
+      "price": "1488",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "超大屏6.9\"",
+      "month_sales": "6450",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+Max+3&app=detailproduct&pspuid=1612176&cat=1512&from_pos=20_1512.default_0_35_1612176&spu_style=grid#spudetail-sortbar",
+        "num": "247"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+Max+3&app=detailproduct&pspuid=1612176&cat=1512&from_pos=20_1512.default_0_35_1612176&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "巨无霸级全面屏"
+        },
+        {
+          "tag": "AI双摄"
+        },
+        {
+          "tag": "双功放立体声"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "华为 畅享8e  青春",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB1lBxSgHsrBKNjSZFpXXcXhFXa.jpg",
+      "price": "578",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "中屏5.45\"",
+      "month_sales": "12427",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+çäº«8e++éæ¥&app=detailproduct&pspuid=1618621&cat=1512&from_pos=20_1512.default_0_36_1618621&spu_style=grid#spudetail-sortbar",
+        "num": "136"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+çäº«8e++éæ¥&app=detailproduct&pspuid=1618621&cat=1512&from_pos=20_1512.default_0_36_1618621&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "高清全面屏"
+        },
+        {
+          "tag": "智能柔光自拍"
+        },
+        {
+          "tag": "三指滑动截屏"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "诺基亚 X5",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB1JQqrCkyWBuNjy0Fpq3yssXXa_015902.jpg",
+      "price": "788",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏5.86\"",
+      "month_sales": "9109",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=è¯ºåºäº+X5&app=detailproduct&pspuid=1628311&cat=1512&from_pos=20_1512.default_0_37_1628311&spu_style=grid#spudetail-sortbar",
+        "num": "70"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=è¯ºåºäº+X5&app=detailproduct&pspuid=1628311&cat=1512&from_pos=20_1512.default_0_37_1628311&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "双面玻璃机身"
+        },
+        {
+          "tag": "智能人脸识别"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "荣耀 畅玩7 ",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB1ZIvFhyQnBKNjSZFmXXcApVXa.jpg",
+      "price": "479",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "中屏5.45\"",
+      "month_sales": "13274",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=è£è+çç©7+&app=detailproduct&pspuid=1621261&cat=1512&from_pos=20_1512.default_0_38_1621261&spu_style=grid#spudetail-sortbar",
+        "num": "188"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=è£è+çç©7+&app=detailproduct&pspuid=1621261&cat=1512&from_pos=20_1512.default_0_38_1621261&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "小巧全面屏"
+        },
+        {
+          "tag": "前置500万柔光自拍"
+        },
+        {
+          "tag": "三指截屏"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "荣耀 荣耀9青春版",
+      "pic_url": "//g-search2.alicdn.com/img/bao/uploaded/i4/TB13xlIXFkoBKNjSZFEXXbrEVXa.jpg",
+      "price": "846",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏5.65\"",
+      "month_sales": "7190",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=è£è+è£è9éæ¥ç&app=detailproduct&pspuid=1576149&cat=1512&from_pos=20_1512.default_0_39_1576149&spu_style=grid#spudetail-sortbar",
+        "num": "327"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=è£è+è£è9éæ¥ç&app=detailproduct&pspuid=1576149&cat=1512&from_pos=20_1512.default_0_39_1576149&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "全屏四摄"
+        },
+        {
+          "tag": "智慧化系统"
+        },
+        {
+          "tag": "续航无忧"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "vivo Y83",
+      "pic_url": "//g-search2.alicdn.com/img/bao/uploaded/i4/TB1dliKfRnTBKNjSZPfXXbf1XXa.jpg",
+      "price": "998",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "超大屏6.22\"",
+      "month_sales": "5424",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=vivo+Y83&app=detailproduct&pspuid=1612688&cat=1512&from_pos=20_1512.default_0_40_1612688&spu_style=grid#spudetail-sortbar",
+        "num": "88"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=vivo+Y83&app=detailproduct&pspuid=1612688&cat=1512&from_pos=20_1512.default_0_40_1612688&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "全屏耀出彩"
+        },
+        {
+          "tag": "AI更畅快"
+        }
+      ],
+      "cmt_count": 0,
+      "tag": "islower"
+    },
+    {
+      "cat": "1512",
+      "title": "小米 黑鲨游戏手机",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB1QjYUdBjTBKNjSZFuXXb0HFXa.jpg",
+      "price": "2299",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏5.99\"",
+      "month_sales": "1944",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+é»é²¨æ¸¸æææº&app=detailproduct&pspuid=1605106&cat=1512&from_pos=20_1512.default_0_41_1605106&spu_style=grid#spudetail-sortbar",
+        "num": "152"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=å°ç±³+é»é²¨æ¸¸æææº&app=detailproduct&pspuid=1605106&cat=1512&from_pos=20_1512.default_0_41_1605106&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "全面屏超宽视野"
+        },
+        {
+          "tag": "独立图像处理芯片"
+        },
+        {
+          "tag": "震撼Biso音效"
+        }
+      ],
+      "cmt_count": 0,
+      "tag": "islower"
+    },
+    {
+      "cat": "1512",
+      "title": "华为 畅享8e",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB1G.rVcY3nBKNjSZFMXXaUSFXa.jpg",
+      "price": "579",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏5.7\"",
+      "month_sales": "13449",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+çäº«8e&app=detailproduct&pspuid=1600052&cat=1512&from_pos=20_1512.default_0_42_1600052&spu_style=grid#spudetail-sortbar",
+        "num": "216"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=åä¸º+çäº«8e&app=detailproduct&pspuid=1600052&cat=1512&from_pos=20_1512.default_0_42_1600052&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "口袋音响"
+        },
+        {
+          "tag": "玩不设限"
+        },
+        {
+          "tag": "高清双摄"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "OPPO R15",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB1o8kYaz7nBKNjSZLeXXbxCFXa.jpg",
+      "price": "2199",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "超大屏6.28\"",
+      "month_sales": "2131",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=OPPO+R15&app=detailproduct&pspuid=1592287&cat=1512&from_pos=20_1512.default_0_43_1592287&spu_style=grid#spudetail-sortbar",
+        "num": "186"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=OPPO+R15&app=detailproduct&pspuid=1592287&cat=1512&from_pos=20_1512.default_0_43_1592287&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "超视野全面屏"
+        },
+        {
+          "tag": "AI智能拍照"
+        },
+        {
+          "tag": "让美更自然"
+        }
+      ],
+      "cmt_count": 0,
+      "tag": "islower"
+    },
+    {
+      "cat": "1512",
+      "title": "vivo NEX",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/TB1tlDsilsmBKNjSZFFXXcT9VXa.jpg",
+      "price": "3398",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "超大屏6.59\"",
+      "month_sales": "1275",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=vivo+NEX&app=detailproduct&pspuid=1615341&cat=1512&from_pos=20_1512.default_0_44_1615341&spu_style=grid#spudetail-sortbar",
+        "num": "120"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=vivo+NEX&app=detailproduct&pspuid=1615341&cat=1512&from_pos=20_1512.default_0_44_1615341&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "AI智慧拍照"
+        },
+        {
+          "tag": "升降式前置摄像头"
+        },
+        {
+          "tag": "电竞级游戏体验"
+        }
+      ],
+      "cmt_count": 0,
+      "tag": "islower"
+    },
+    {
+      "cat": "1512",
+      "title": "OPPO A1",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/TB1kS_QepkoBKNjSZFEXXbrEVXa.jpg",
+      "price": "899",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏5.7\"",
+      "month_sales": "3928",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=OPPO+A1&app=detailproduct&pspuid=1597590&cat=1512&from_pos=20_1512.default_0_45_1597590&spu_style=grid#spudetail-sortbar",
+        "num": "109"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=OPPO+A1&app=detailproduct&pspuid=1597590&cat=1512&from_pos=20_1512.default_0_45_1597590&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "大内存全面屏"
+        },
+        {
+          "tag": "面部识别"
+        },
+        {
+          "tag": "更长续航"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "美图 T8s",
+      "pic_url": "//g-search2.alicdn.com/img/bao/uploaded/i4/TB1o1L2XOMnBKNjSZFzXXc_qVXa.jpg",
+      "price": "1368",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "中屏5.2\"",
+      "month_sales": "3503",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=ç¾å¾+T8s&app=detailproduct&pspuid=1545059&cat=1512&from_pos=20_1512.default_0_46_1545059&spu_style=grid#spudetail-sortbar",
+        "num": "173"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=ç¾å¾+T8s&app=detailproduct&pspuid=1545059&cat=1512&from_pos=20_1512.default_0_46_1545059&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "前置双像素双摄像头"
+        },
+        {
+          "tag": "OIS光学防抖"
+        },
+        {
+          "tag": "光比平衡模式"
+        }
+      ],
+      "cmt_count": 0,
+      "tag": "islower"
+    },
+    {
+      "cat": "1512",
+      "title": "努比亚 红魔游戏手机",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/TB1thb3dHZnBKNjSZFKXXcGOVXa.jpg",
+      "price": "2289",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏6.0\"",
+      "month_sales": "1619",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=åªæ¯äº+çº¢é­æ¸¸æææº&app=detailproduct&pspuid=1606034&cat=1512&from_pos=20_1512.default_0_47_1606034&spu_style=grid#spudetail-sortbar",
+        "num": "97"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=åªæ¯äº+çº¢é­æ¸¸æææº&app=detailproduct&pspuid=1606034&cat=1512&from_pos=20_1512.default_0_47_1606034&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "双天线技术"
+        },
+        {
+          "tag": "后置2400万像素专业摄像"
+        }
+      ],
+      "cmt_count": 0
+    },
+    {
+      "cat": "1512",
+      "title": "三星 Galaxy S9",
+      "pic_url": "//g-search2.alicdn.com/img/bao/uploaded/i4/TB1_RvXXHZnBKNjSZFGXXbt3FXa.jpg",
+      "price": "4599",
+      "trace": "vertical_spu",
+      "specialTag": [],
+      "importantKey": "大屏5.8\"",
+      "month_sales": "1406",
+      "seller": {
+        "trace": "vertical_seller",
+        "url": "//s.taobao.com/search?q=ææº&spu_title=ä¸æ+Galaxy+S9&app=detailproduct&pspuid=1574631&cat=1512&from_pos=20_1512.default_0_48_1574631&spu_style=grid#spudetail-sortbar",
+        "num": "167"
+      },
+      "url": "//s.taobao.com/search?q=ææº&spu_title=ä¸æ+Galaxy+S9&app=detailproduct&pspuid=1574631&cat=1512&from_pos=20_1512.default_0_48_1574631&spu_style=grid",
+      "tag_info": [
+        {
+          "tag": "全视曲面屏"
+        },
+        {
+          "tag": "杜比全景音效"
+        }
+      ],
+      "cmt_count": 0,
+      "tag": "islower"
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistentConfig">
+    <option name="historyConfigList">
+      <map>
+        <entry key="affiche">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/" />
+              <option name="daoName" value="AfficheDao" />
+              <option name="daoPackage" value="com.onejune.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/" />
+              <option name="modelName" value="Affiche" />
+              <option name="modelPackage" value="com.onejune.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="affiche" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="affiche" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/" />
+              <option name="xmlPackage" value="com.onejune.dao" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="bigtype">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/" />
+              <option name="daoName" value="BigtypeDao" />
+              <option name="daoPackage" value="com.onejune.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/" />
+              <option name="modelName" value="Bigtype" />
+              <option name="modelPackage" value="com.onejune.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="bigtype" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="bigtype" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/" />
+              <option name="xmlPackage" value="com.onejune.dao" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="comment">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/" />
+              <option name="daoName" value="CommentDao" />
+              <option name="daoPackage" value="com.onejune.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/" />
+              <option name="modelName" value="Comment" />
+              <option name="modelPackage" value="com.onejune.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="comment" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="comment" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/" />
+              <option name="xmlPackage" value="com.onejune.dao" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="goods">
+          <value>
+            <Config>
+              <option name="annotationDAO" value="true" />
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/" />
+              <option name="daoName" value="GoodsDao" />
+              <option name="daoPackage" value="com.onejune.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/" />
+              <option name="modelName" value="Goods" />
+              <option name="modelPackage" value="com.onejune.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="goods" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="goods" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/" />
+              <option name="xmlPackage" value="com.onejune.dao" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="gorder">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/" />
+              <option name="daoName" value="GorderDao" />
+              <option name="daoPackage" value="com.onejune.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/" />
+              <option name="modelName" value="Gorder" />
+              <option name="modelPackage" value="com.onejune.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="gorder" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="number" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="gorder" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/" />
+              <option name="xmlPackage" value="com.onejune.dao" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="link">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/" />
+              <option name="daoName" value="LinkDao" />
+              <option name="daoPackage" value="com.onejune.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/" />
+              <option name="modelName" value="Link" />
+              <option name="modelPackage" value="com.onejune.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="link" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="link" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/" />
+              <option name="xmlPackage" value="com.onejune.dao" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="manager">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/" />
+              <option name="daoName" value="ManagerDao" />
+              <option name="daoPackage" value="com.onejune.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/" />
+              <option name="modelName" value="Manager" />
+              <option name="modelPackage" value="com.onejune.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="manager" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="manager" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/" />
+              <option name="xmlPackage" value="com.onejune.dao" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="member">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/" />
+              <option name="daoName" value="MemberDao" />
+              <option name="daoPackage" value="com.onejune.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/" />
+              <option name="modelName" value="Member" />
+              <option name="modelPackage" value="com.onejune.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="member" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="member" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/" />
+              <option name="xmlPackage" value="com.onejune.dao" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="notice">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/" />
+              <option name="daoName" value="NoticeDao" />
+              <option name="daoPackage" value="com.onejune.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/" />
+              <option name="modelName" value="Notice" />
+              <option name="modelPackage" value="com.onejune.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="notice" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="notice" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/" />
+              <option name="xmlPackage" value="com.onejune.dao" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="order">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/" />
+              <option name="daoName" value="OrderDao" />
+              <option name="daoPackage" value="com.onejune.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/" />
+              <option name="modelName" value="Order" />
+              <option name="modelPackage" value="com.onejune.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="order" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="number" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="order" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/" />
+              <option name="xmlPackage" value="com.onejune.dao" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="orderdetail">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/" />
+              <option name="daoName" value="OrderdetailDao" />
+              <option name="daoPackage" value="com.onejune.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/" />
+              <option name="modelName" value="Orderdetail" />
+              <option name="modelPackage" value="com.onejune.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="orderdetail" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="orderdetail" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/" />
+              <option name="xmlPackage" value="com.onejune.dao" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="shoppingcar">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/" />
+              <option name="daoName" value="ShoppingcarDao" />
+              <option name="daoPackage" value="com.onejune.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/" />
+              <option name="modelName" value="Shoppingcar" />
+              <option name="modelPackage" value="com.onejune.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="shoppingcar" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="shoppingcar" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/" />
+              <option name="xmlPackage" value="com.onejune.dao" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="smalltype">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/" />
+              <option name="daoName" value="SmalltypeDao" />
+              <option name="daoPackage" value="com.onejune.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/" />
+              <option name="modelName" value="Smalltype" />
+              <option name="modelPackage" value="com.onejune.pojo" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="smalltype" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="smalltype" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/" />
+              <option name="xmlPackage" value="com.onejune.dao" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="users">
+      <map>
+        <entry key="jdbc:mysql://localhost:3306/onejuneShopping">
+          <value>
+            <User>
+              <option name="username" value="root" />
+            </User>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

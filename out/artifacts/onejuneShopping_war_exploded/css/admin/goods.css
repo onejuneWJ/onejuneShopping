@@ -1,0 +1,47 @@
+body {
+	background: rgb(242, 242, 242);
+}
+
+.panel-body b {
+	font-size: 18px;
+}
+
+.goods-search {
+	width: 1200px;
+	margin: auto;
+	margin-bottom: 10px;
+}
+
+.goods-options {
+	width: 1200px;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.goods-content {
+	background: white;
+	border: solid 1px rgb(220, 220, 220);
+	width: 1200px;
+	height: auto;
+	margin: auto;
+}
+
+#rightButton {
+	position: fixed;
+	_position: absolute;
+	top: 500px;
+	right: 0;
+	z-index: 999999;
+	display: block;
+}
+
+#backToTop {
+	z-index: 999999;
+	display: none;
+}
+
+a.backToTop_a {
+	width: 20px;
+	display: block;
+}

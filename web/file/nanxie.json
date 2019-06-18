@@ -1,0 +1,4106 @@
+{
+  "auctions": [
+    {
+      "p4p": 1,
+      "p4pSameHeight": true,
+      "p4pIconType": "2",
+      "nid": "575907250398",
+      "category": "",
+      "pid": "",
+      "title": "MRA<span class=H>男鞋</span>冬季加绒鞋子男潮鞋百搭马丁靴男高帮棉鞋男士休闲鞋板鞋",
+      "raw_title": "男鞋冬季加绒鞋子男潮鞋马丁靴男高帮鞋板鞋",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i3/54909430/O1CN01gw3FIO2JWzO25WcXg_!!0-saturn_solar.jpg",
+      "detail_url": "https://click.simba.taobao.com/cc_im?p=ÄÐÐ¬&s=1721502823&k=589&e=e7c8J/6k2exxHomj9spIGtonWJUot4Htnqa+1uYpn5+Vu4l31+bGKmb2mdMSMAbXelc/X2tmhx4oHGiII9CjZZQZBEAWRN1C42yKO8DQe1sXDZExAs/xCVlI4hMHlQDXZaFCa2AgTKXRy105d6OjUVFBHNK7i/jJS0ncKyadtpU//t5YLfH0hTcc3KgvRZicsUv9qz8fBCXu8TEEuPaiYP7ZwIHIsRg7mqbe/vrxxsAHkoKUsIJumXdiBqHEnMaytPHsiZS6KNTPmNA+A6wMGNVIdL/fRxpMw5WA6hbN3iSUEgKjy+6L4kFFLcL0SMq557g7frJPlO6uGdHXK4BfzNc2fYCjIKVSRwZgqfeIR700Cpvyflvotw0/EylYnaeALvHXajolMScPveGK9NaCxxuXHi/fVu19S1TJjVto4hjvNc4hJ0BIQfYrQt4ZO5nR/QB83fyUtMuP7IfLvBcT1NMukVuyE4JSv0LKLPMPQCP6FAlbI/MbBD/B/DvDhlHWrolUiPlxP3vJHbDqkO2oXA6nIShBJs+jq0JU6CN4lL6ZFQlhe7o+XCUebQqiQlZJirPUa+rCyA4=",
+      "view_price": "179.00",
+      "view_fee": "0.00",
+      "item_loc": "浙江 温州",
+      "view_sales": "8924人付款",
+      "comment_count": "",
+      "user_id": "2023351356",
+      "nick": "mra旗舰店",
+      "shopcard": {
+        "levelClasses": [],
+        "isTmall": true,
+        "delivery": [
+          0,
+          1,
+          626
+        ],
+        "description": [
+          0,
+          0,
+          0
+        ],
+        "service": [
+          0,
+          1,
+          1179
+        ],
+        "encryptedUserId": "UvCNyvGvbvFvbMgTT"
+      },
+      "icon": [
+        {
+          "title": "掌柜热卖宝贝",
+          "dom_class": "icon-service-remai",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-remai",
+          "trace": "srpservice",
+          "traceIdx": 0,
+          "innerText": "掌柜热卖宝贝",
+          "url": "//re.taobao.com/search?keyword=ÄÐÐ¬&refpid=420432_1006&frcatid=&"
+        },
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 1,
+          "innerText": "天猫宝贝"
+        },
+        {
+          "title": "公益宝贝",
+          "dom_class": "icon-fest-gongyibaobei",
+          "position": "2",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-fest-gongyibaobei",
+          "trace": "srpservice",
+          "traceIdx": 2,
+          "innerText": "公益宝贝"
+        }
+      ],
+      "isHideIM": true,
+      "isHideNick": false,
+      "comment_url": "https://click.simba.taobao.com/cc_im?p=ÄÐÐ¬&s=1721502823&k=589&e=e7c8J/6k2exxHomj9spIGtonWJUot4Htnqa+1uYpn5+Vu4l31+bGKmb2mdMSMAbXelc/X2tmhx4oHGiII9CjZZQZBEAWRN1C42yKO8DQe1sXDZExAs/xCVlI4hMHlQDXZaFCa2AgTKXRy105d6OjUVFBHNK7i/jJS0ncKyadtpU//t5YLfH0hTcc3KgvRZicsUv9qz8fBCXu8TEEuPaiYP7ZwIHIsRg7mqbe/vrxxsAHkoKUsIJumXdiBqHEnMaytPHsiZS6KNTPmNA+A6wMGNVIdL/fRxpMw5WA6hbN3iSUEgKjy+6L4kFFLcL0SMq557g7frJPlO6uGdHXK4BfzNc2fYCjIKVSRwZgqfeIR700Cpvyflvotw0/EylYnaeALvHXajolMScPveGK9NaCxxuXHi/fVu19S1TJjVto4hjvNc4hJ0BIQfYrQt4ZO5nR/QB83fyUtMuP7IfLvBcT1NMukVuyE4JSv0LKLPMPQCP6FAlbI/MbBD/B/DvDhlHWrolUiPlxP3vJHbDqkO2oXA6nIShBJs+jq0JU6CN4lL6ZFQlhe7o+XCUebQqiQlZJirPUa+rCyA4=&on_comment=1",
+      "shopLink": "https://click.simba.taobao.com/cc_im?p=ÄÐÐ¬&s=1721502823&k=545&e=UpTSJ3hqlTdxHomj9spIGtonWJUot4Htnqa+1uYpn5+Vu4l31+bGKmb2mdMSMAbXelc/X2tmhx4VKqOHlBtMiZQZBEAWRN1C42yKO8DQe1sXDZExAs/xCVlI4hMHlQDXZaFCa2AgTKXRy105d6OjUVFBHNK7i/jJS0ncKyadtpU//t5YLfH0hTcc3KgvRZicsUv9qz8fBCXu8TEEuPaiYP7ZwIHIsRg7mqbe/vrxxsAHkoKUsIJumXdiBqHEnMaytPHsiZS6KNTPmNA+A6wMGNVIdL/fRxpMw5WA6hbN3iSUEgKjy+6L4kFFLcL0SMq557g7frJPlO6uGdHXK4BfzNc2fYCjIKVSRwZgqfeIR700Cpvyflvotw0/EylYnaeALvHXajolMScPveGK9NaCxxuXHi/fVu19S1TJjVto4hjHLI2xlaK+/wT4IyHM1N/6mXxmjehvZB6W+eNrLGgak9NXsLAXN1XDLDAs1MPeciHwA8sCBlsglHUOIT6rDLKlDva+KJ+hsH5GR7dC6OdTGJA3kTFBN/rz"
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-283153211&nid=522662282644"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-283153211&nid=522662282644"
+        }
+      },
+      "p4pTags": [],
+      "nid": "522662282644",
+      "category": "50012036",
+      "pid": "-283153211",
+      "title": "特步<span class=H>男鞋</span> 运动鞋男2018秋冬季新款跑步鞋休闲鞋皮面鞋子男士跑鞋",
+      "raw_title": "特步男鞋 运动鞋男2018秋冬季新款跑步鞋休闲鞋皮面鞋子男士跑鞋",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/i2/353571709/O1CN01kPWb1i1OUlMUsCygq-353571709.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=522662282644&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=3",
+      "view_price": "179.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 泉州",
+      "view_sales": "5473人付款",
+      "comment_count": "106882",
+      "user_id": "353571709",
+      "nick": "特步官方旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-jinguan"
+          },
+          {
+            "levelClass": "icon-supple-level-jinguan"
+          },
+          {
+            "levelClass": "icon-supple-level-jinguan"
+          },
+          {
+            "levelClass": "icon-supple-level-jinguan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          475,
+          -1,
+          168
+        ],
+        "description": [
+          479,
+          -1,
+          156
+        ],
+        "service": [
+          473,
+          -1,
+          211
+        ],
+        "encryptedUserId": "UvG8GMFcYMGNS",
+        "sellerCredit": 19,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 3,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        },
+        {
+          "title": "公益宝贝",
+          "dom_class": "icon-fest-gongyibaobei",
+          "position": "2",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-fest-gongyibaobei",
+          "trace": "srpservice",
+          "traceIdx": 4,
+          "innerText": "公益宝贝"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=522662282644&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=353571709",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1190460873&nid=535781992331"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1190460873&nid=535781992331"
+        }
+      },
+      "p4pTags": [],
+      "nid": "535781992331",
+      "category": "50012036",
+      "pid": "-1190460873",
+      "title": "特步<span class=H>男鞋</span>运动鞋冬季新款跑步鞋透气皮面休闲鞋复古秋季慢跑鞋子男",
+      "raw_title": "特步男鞋运动鞋冬季新款跑步鞋透气皮面休闲鞋复古秋季慢跑鞋子男",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i2/2090224872/O1CN01q8oIAe1lrQ7KzkKjs_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=535781992331&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=3",
+      "view_price": "159.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 厦门",
+      "view_sales": "3662人付款",
+      "comment_count": "17707",
+      "user_id": "2090224872",
+      "nick": "骏懿运动专营店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          483,
+          0,
+          0
+        ],
+        "description": [
+          488,
+          1,
+          658
+        ],
+        "service": [
+          483,
+          0,
+          0
+        ],
+        "encryptedUserId": "UvCNSvmIyMmguvgTT",
+        "sellerCredit": 14,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 5,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        },
+        {
+          "title": "公益宝贝",
+          "dom_class": "icon-fest-gongyibaobei",
+          "position": "2",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-fest-gongyibaobei",
+          "trace": "srpservice",
+          "traceIdx": 6,
+          "innerText": "公益宝贝"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=535781992331&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=2090224872",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1603485307&nid=546608756847"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1603485307&nid=546608756847"
+        }
+      },
+      "p4pTags": [],
+      "nid": "546608756847",
+      "category": "50012043",
+      "pid": "-1603485307",
+      "title": "鸿星尔克运动鞋男女秋冬季跑鞋情侣休闲旅游鞋跑步鞋女鞋鞋子<span class=H>男鞋</span>",
+      "raw_title": "鸿星尔克运动鞋男女秋冬季跑鞋情侣休闲旅游鞋跑步鞋女鞋鞋子男鞋",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i4/349740505/O1CN01zySZfi1FbKUyulx5d_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=546608756847&ns=1&abbucket=3",
+      "view_price": "129.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 厦门",
+      "view_sales": "4275人付款",
+      "comment_count": "95749",
+      "user_id": "349740505",
+      "nick": "鸿星尔克erke旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-jinguan"
+          },
+          {
+            "levelClass": "icon-supple-level-jinguan"
+          },
+          {
+            "levelClass": "icon-supple-level-jinguan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          476,
+          -1,
+          135
+        ],
+        "description": [
+          482,
+          -1,
+          110
+        ],
+        "service": [
+          476,
+          -1,
+          122
+        ],
+        "encryptedUserId": "UvGQSMGQWMFNb",
+        "sellerCredit": 18,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 7,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=546608756847&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=349740505",
+      "recommend_nav": "15 1 3 111",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1129701922&nid=557125648150"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1129701922&nid=557125648150"
+        }
+      },
+      "p4pTags": [],
+      "nid": "557125648150",
+      "category": "50012043",
+      "pid": "-1129701922",
+      "title": "鸿星尔克百搭板鞋男运动鞋滑板鞋休闲鞋学生鞋子秋冬季小白鞋<span class=H>男鞋</span>",
+      "raw_title": "鸿星尔克百搭板鞋男运动鞋滑板鞋休闲鞋学生鞋子秋冬季小白鞋男鞋",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i3/349740505/O1CN01QvIz9a1FbKUxlRQgM-349740505.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=557125648150&ns=1&abbucket=3",
+      "view_price": "129.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 厦门",
+      "view_sales": "569人付款",
+      "comment_count": "14833",
+      "user_id": "349740505",
+      "nick": "鸿星尔克erke旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-jinguan"
+          },
+          {
+            "levelClass": "icon-supple-level-jinguan"
+          },
+          {
+            "levelClass": "icon-supple-level-jinguan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          476,
+          -1,
+          135
+        ],
+        "description": [
+          482,
+          -1,
+          110
+        ],
+        "service": [
+          476,
+          -1,
+          122
+        ],
+        "encryptedUserId": "UvGQSMGQWMFNb",
+        "sellerCredit": 18,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 8,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=557125648150&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=349740505",
+      "recommend_nav": "15 1 3 111",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-553049705&nid=549408030444"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-553049705&nid=549408030444"
+        }
+      },
+      "p4pTags": [],
+      "nid": "549408030444",
+      "category": "50012906",
+      "pid": "-553049705",
+      "title": "八哥<span class=H>男鞋</span>冬季潮鞋板鞋男士运动休闲鞋学生百搭白色鞋子男韩版潮流",
+      "raw_title": "八哥男鞋冬季潮鞋板鞋男士运动休闲鞋学生百搭白色鞋子男韩版潮流",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i1/469256589/TB2AifaE9BYBeNjy0FeXXbnmFXa_!!469256589-0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=549408030444&ns=1&abbucket=3",
+      "view_price": "119.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 泉州",
+      "view_sales": "8781人付款",
+      "comment_count": "64013",
+      "user_id": "469256589",
+      "nick": "bage旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-jinguan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          491,
+          1,
+          4307
+        ],
+        "description": [
+          492,
+          1,
+          4136
+        ],
+        "service": [
+          491,
+          1,
+          4500
+        ],
+        "encryptedUserId": "UMmxSvC8LMFgS",
+        "sellerCredit": 16,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 9,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=549408030444&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=469256589",
+      "recommend_nav": "15 111",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1724849707&nid=536271095910"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1724849707&nid=536271095910"
+        }
+      },
+      "p4pTags": [],
+      "nid": "536271095910",
+      "category": "50012043",
+      "pid": "-1724849707",
+      "title": "特步<span class=H>男鞋</span>冬季新款正品板鞋男士透气跑步韩版休闲秋冬运动鞋<span class=H>男鞋</span>子",
+      "raw_title": "特步男鞋冬季新款正品板鞋男士透气跑步韩版休闲秋冬运动鞋男鞋子",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/i3/2129848043/O1CN01iA3Hfc29Hk2gtks3J_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=536271095910&ns=1&abbucket=3",
+      "view_price": "109.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 泉州",
+      "view_sales": "82人付款",
+      "comment_count": "24136",
+      "user_id": "2129848043",
+      "nick": "特步悠悠专卖店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          483,
+          0,
+          0
+        ],
+        "description": [
+          488,
+          1,
+          660
+        ],
+        "service": [
+          483,
+          0,
+          0
+        ],
+        "encryptedUserId": "UvCHyOFg0OmN0vWTT",
+        "sellerCredit": 14,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 10,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=536271095910&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=2129848043",
+      "recommend_nav": "15 3 111",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1910393541&nid=579683767746"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1910393541&nid=579683767746"
+        }
+      },
+      "p4pTags": [],
+      "nid": "579683767746",
+      "category": "50011744",
+      "pid": "-1910393541",
+      "title": "鞋子男潮鞋冬季加绒保暖棉鞋男韩版潮流百搭休闲跑步旅游运动<span class=H>男鞋</span>",
+      "raw_title": "鞋子男潮鞋冬季加绒保暖棉鞋男韩版潮流百搭休闲跑步旅游运动男鞋",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i2/3428328691/O1CN01YBuIke2E4WgQjQXXk_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=579683767746&ns=1&abbucket=3",
+      "view_price": "138.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 泉州",
+      "view_sales": "47302人付款",
+      "comment_count": "22497",
+      "user_id": "3428328691",
+      "nick": "encsrodan英里士旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          492,
+          1,
+          5380
+        ],
+        "description": [
+          495,
+          1,
+          6121
+        ],
+        "service": [
+          493,
+          1,
+          5940
+        ],
+        "encryptedUserId": "UvGQyOmvyOmxSvQTT",
+        "sellerCredit": 13,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 11,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=579683767746&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=3428328691",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1382518923&nid=576956401344"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1382518923&nid=576956401344"
+        }
+      },
+      "p4pTags": [],
+      "nid": "576956401344",
+      "category": "50012907",
+      "pid": "-1382518923",
+      "title": "足力健老人鞋男正品爸爸运动<span class=H>男鞋</span>冬季防滑休闲高帮雪地保暖羊毛鞋",
+      "raw_title": "足力健老人鞋男正品爸爸运动男鞋冬季防滑休闲高帮雪地保暖羊毛鞋",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/i3/3287104402/O1CN01YsATD21iO9xv4pbQc_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=576956401344&ns=1&abbucket=3",
+      "view_price": "349.00",
+      "view_fee": "0.00",
+      "item_loc": "广东 广州",
+      "view_sales": "11712人付款",
+      "comment_count": "8750",
+      "user_id": "3287104402",
+      "nick": "足力健旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-jinguan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          486,
+          1,
+          1251
+        ],
+        "description": [
+          492,
+          1,
+          3536
+        ],
+        "service": [
+          488,
+          1,
+          2530
+        ],
+        "encryptedUserId": "UvGI4MGHWMmQWvgTT",
+        "sellerCredit": 16,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 12,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=576956401344&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=3287104402",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-376685094&nid=580294390242"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-376685094&nid=580294390242"
+        }
+      },
+      "p4pTags": [],
+      "nid": "580294390242",
+      "category": "50011744",
+      "pid": "-376685094",
+      "title": "<span class=H>男鞋</span>冬季加绒保暖加厚棉鞋男运动鞋休闲学生跑步鞋防滑潮流潮鞋子",
+      "raw_title": "男鞋冬季加绒保暖加厚棉鞋男运动鞋休闲学生跑步鞋防滑潮流潮鞋子",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/i2/2075952238/O1CN011SP2rcNXWAqJmWA_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=580294390242&ns=1&abbucket=3",
+      "view_price": "128.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 泉州",
+      "view_sales": "18662人付款",
+      "comment_count": "13196",
+      "user_id": "2075952238",
+      "nick": "卓迹旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          496,
+          1,
+          7398
+        ],
+        "description": [
+          497,
+          1,
+          7763
+        ],
+        "service": [
+          496,
+          1,
+          7498
+        ],
+        "encryptedUserId": "UvCNuMFkbvCIGONTT",
+        "sellerCredit": 13,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 13,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        },
+        {
+          "title": "公益宝贝",
+          "dom_class": "icon-fest-gongyibaobei",
+          "position": "2",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-fest-gongyibaobei",
+          "trace": "srpservice",
+          "traceIdx": 14,
+          "innerText": "公益宝贝"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=580294390242&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=2075952238",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": ""
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=&nid=22674956627"
+        }
+      },
+      "p4pTags": [],
+      "nid": "22674956627",
+      "category": "50019279",
+      "pid": "",
+      "title": "【明星款】Timberland添柏岚户外踢不烂<span class=H>男鞋</span>防水经典大黄靴10061",
+      "raw_title": "【明星款】Timberland添柏岚户外踢不烂男鞋防水经典大黄靴10061",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/i4/1579814274/O1CN011hRXGDkXkmfc8t3_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=22674956627&ns=1&abbucket=3",
+      "view_price": "1490.00",
+      "view_fee": "0.00",
+      "item_loc": "上海",
+      "view_sales": "2250人付款",
+      "comment_count": "11424",
+      "user_id": "1579814274",
+      "nick": "timberland官方旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          493,
+          1,
+          5725
+        ],
+        "description": [
+          488,
+          1,
+          1657
+        ],
+        "service": [
+          490,
+          1,
+          3865
+        ],
+        "encryptedUserId": "UvF8uOFgYMmIuMNTT",
+        "sellerCredit": 15,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 15,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=22674956627&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=1579814274",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1868909046&nid=582769265656"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1868909046&nid=582769265656"
+        }
+      },
+      "p4pTags": [],
+      "nid": "582769265656",
+      "category": "50012906",
+      "pid": "-1868909046",
+      "title": "木林森鞋子男潮鞋冬季<span class=H>男鞋</span>加绒棉鞋保暖韩版潮流休闲皮鞋百搭板鞋",
+      "raw_title": "木林森鞋子男潮鞋冬季男鞋加绒棉鞋保暖韩版潮流休闲皮鞋百搭板鞋",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i4/2261122654/O1CN01SqHvnT1VTZdd5PwTr_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=582769265656&ns=1&abbucket=3",
+      "view_price": "238.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 泉州",
+      "view_sales": "7675人付款",
+      "comment_count": "2587",
+      "user_id": "2261122654",
+      "nick": "木林森巨爵专卖店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          494,
+          1,
+          6588
+        ],
+        "description": [
+          496,
+          1,
+          7159
+        ],
+        "service": [
+          495,
+          1,
+          7279
+        ],
+        "encryptedUserId": "UvCILvFHyvCxbMNTT",
+        "sellerCredit": 12,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 16,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        },
+        {
+          "title": "当季新品",
+          "dom_class": "icon-service-xinpin",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-xinpin",
+          "trace": "srpservice",
+          "traceIdx": 17,
+          "innerText": "新品",
+          "url": "//service.taobao.com/support/knowledge-1138476.htm"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=582769265656&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=2261122654",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1173016288&nid=578545822754"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1173016288&nid=578545822754"
+        }
+      },
+      "p4pTags": [],
+      "nid": "578545822754",
+      "category": "50012906",
+      "pid": "-1173016288",
+      "title": "冬季<span class=H>男鞋</span>马丁靴英伦休闲皮鞋潮流大头皮鞋低帮工装鞋加棉鞋子男士",
+      "raw_title": "冬季男鞋马丁靴英伦休闲皮鞋潮流大头皮鞋低帮工装鞋加棉鞋子男士",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i4/3691402779/O1CN011WOp8F0Uqa1PrDr_!!3691402779.jpg",
+      "detail_url": "//item.taobao.com/item.htm?id=578545822754&ns=1&abbucket=3#detail",
+      "view_price": "138.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 泉州",
+      "view_sales": "52220人付款",
+      "comment_count": "40328",
+      "user_id": "3691402779",
+      "nick": "泉州亨宇",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": false,
+        "delivery": [
+          495,
+          1,
+          6906
+        ],
+        "description": [
+          493,
+          1,
+          6923
+        ],
+        "service": [
+          495,
+          1,
+          7137
+        ],
+        "encryptedUserId": "UvGxSvFQWvCcuOQTT",
+        "sellerCredit": 13,
+        "totalRate": 9982
+      },
+      "icon": [
+        {
+          "title": "金牌卖家从千万卖家中脱颖而出，会为您的购物体验带来更多信任和安心",
+          "dom_class": "icon-service-jinpaimaijia",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "shop",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-jinpaimaijia",
+          "trace": "srpservice",
+          "traceIdx": 18,
+          "innerText": "金牌卖家",
+          "url": "//www.taobao.com/go/act/jpmj.php",
+          "iconPopupNormal": {
+            "dom_class": "icon-service-jinpaimaijia-l"
+          }
+        },
+        {
+          "title": "公益宝贝",
+          "dom_class": "icon-fest-gongyibaobei",
+          "position": "2",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-fest-gongyibaobei",
+          "trace": "srpservice",
+          "traceIdx": 19,
+          "innerText": "公益宝贝"
+        }
+      ],
+      "comment_url": "//item.taobao.com/item.htm?id=578545822754&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=3691402779",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1506765394&nid=582213124489"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1506765394&nid=582213124489"
+        }
+      },
+      "p4pTags": [],
+      "nid": "582213124489",
+      "category": "50011744",
+      "pid": "-1506765394",
+      "title": "2018新款潮鞋子<span class=H>男鞋</span>冬季加绒保暖棉鞋韩版男士百搭运动休闲高帮鞋",
+      "raw_title": "2018新款潮鞋子男鞋冬季加绒保暖棉鞋韩版男士百搭运动休闲高帮鞋",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i2/3471336912/O1CN01e6Sgfx20vk5Kc7eFs_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=582213124489&ns=1&abbucket=3",
+      "view_price": "138.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 泉州",
+      "view_sales": "6713人付款",
+      "comment_count": "1732",
+      "user_id": "3471336912",
+      "nick": "洛迪虎旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          480,
+          -1,
+          66
+        ],
+        "description": [
+          487,
+          0,
+          0
+        ],
+        "service": [
+          480,
+          0,
+          0
+        ],
+        "encryptedUserId": "UvGQuvFvGMCkYvgTT",
+        "sellerCredit": 11,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 20,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=582213124489&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=3471336912",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-2143530306&nid=576757982474"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-2143530306&nid=576757982474"
+        }
+      },
+      "p4pTags": [],
+      "nid": "576757982474",
+      "category": "50012043",
+      "pid": "-2143530306",
+      "title": "Nike 耐克官方NIKE AIR HUARACHE GRIPP男子运动鞋 AO1730",
+      "raw_title": "Nike 耐克官方NIKE AIR HUARACHE GRIPP男子运动鞋 AO1730",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i4/890482188/O1CN01uVETcq1S294dy65TV_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=576757982474&ns=1&abbucket=3",
+      "view_price": "999.00",
+      "view_fee": "0.00",
+      "item_loc": "上海",
+      "view_sales": "1654人付款",
+      "comment_count": "811",
+      "user_id": "890482188",
+      "nick": "nike官方旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-jinguan"
+          },
+          {
+            "levelClass": "icon-supple-level-jinguan"
+          },
+          {
+            "levelClass": "icon-supple-level-jinguan"
+          },
+          {
+            "levelClass": "icon-supple-level-jinguan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          484,
+          1,
+          710
+        ],
+        "description": [
+          480,
+          -1,
+          143
+        ],
+        "service": [
+          479,
+          -1,
+          89
+        ],
+        "encryptedUserId": "UOmkWMmgyvFg4",
+        "sellerCredit": 19,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 21,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=576757982474&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=890482188",
+      "recommend_nav": "111",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-416002638&nid=576938912602"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-416002638&nid=576938912602"
+        }
+      },
+      "p4pTags": [],
+      "nid": "576938912602",
+      "category": "50011744",
+      "pid": "-416002638",
+      "title": "花花公子<span class=H>男鞋</span>秋季新款运动鞋防臭休闲鞋轻便透气冬季棉鞋旅游潮鞋",
+      "raw_title": "花花公子男鞋秋季新款运动鞋防臭休闲鞋轻便透气冬季棉鞋旅游潮鞋",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/i2/707465801/O1CN011siu2qrmBKFD75f_!!0-item_pic.jpg",
+      "detail_url": "//item.taobao.com/item.htm?id=576938912602&ns=1&abbucket=3#detail",
+      "view_price": "168.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 泉州",
+      "view_sales": "20180人付款",
+      "comment_count": "24246",
+      "user_id": "707465801",
+      "nick": "随风andy99",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": false,
+        "delivery": [
+          493,
+          1,
+          6120
+        ],
+        "description": [
+          492,
+          1,
+          6315
+        ],
+        "service": [
+          493,
+          1,
+          6297
+        ],
+        "encryptedUserId": "UMGNuMmxbOmNY",
+        "sellerCredit": 14,
+        "totalRate": 9968
+      },
+      "icon": [
+        {
+          "title": "金牌卖家从千万卖家中脱颖而出，会为您的购物体验带来更多信任和安心",
+          "dom_class": "icon-service-jinpaimaijia",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "shop",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-jinpaimaijia",
+          "trace": "srpservice",
+          "traceIdx": 22,
+          "innerText": "金牌卖家",
+          "url": "//www.taobao.com/go/act/jpmj.php",
+          "iconPopupNormal": {
+            "dom_class": "icon-service-jinpaimaijia-l"
+          }
+        },
+        {
+          "title": "公益宝贝",
+          "dom_class": "icon-fest-gongyibaobei",
+          "position": "2",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-fest-gongyibaobei",
+          "trace": "srpservice",
+          "traceIdx": 23,
+          "innerText": "公益宝贝"
+        }
+      ],
+      "comment_url": "//item.taobao.com/item.htm?id=576938912602&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=707465801",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-47708647&nid=582238951900"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-47708647&nid=582238951900"
+        }
+      },
+      "p4pTags": [],
+      "nid": "582238951900",
+      "category": "50012043",
+      "pid": "-47708647",
+      "title": "Nike 耐克官方 NIKE SB ZOOM DUNK HIGH TR QS男子滑板鞋 AJ7730",
+      "raw_title": "Nike 耐克官方 NIKE SB ZOOM DUNK HIGH TR QS男子滑板鞋 AJ7730",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i2/890482188/O1CN01w8O6XV1S294KtIrl6_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=582238951900&ns=1&abbucket=3",
+      "view_price": "969.00",
+      "view_fee": "0.00",
+      "item_loc": "上海",
+      "view_sales": "2060人付款",
+      "comment_count": "427",
+      "user_id": "890482188",
+      "nick": "nike官方旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-jinguan"
+          },
+          {
+            "levelClass": "icon-supple-level-jinguan"
+          },
+          {
+            "levelClass": "icon-supple-level-jinguan"
+          },
+          {
+            "levelClass": "icon-supple-level-jinguan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          484,
+          1,
+          710
+        ],
+        "description": [
+          480,
+          -1,
+          143
+        ],
+        "service": [
+          479,
+          -1,
+          89
+        ],
+        "encryptedUserId": "UOmkWMmgyvFg4",
+        "sellerCredit": 19,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 24,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=582238951900&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=890482188",
+      "recommend_nav": "111",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1840711036&nid=579627327747"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1840711036&nid=579627327747"
+        }
+      },
+      "p4pTags": [],
+      "nid": "579627327747",
+      "category": "50012906",
+      "pid": "-1840711036",
+      "title": "冬季<span class=H>男鞋</span>运动鞋加绒棉鞋减震跑步鞋休闲鞋男士潮鞋气垫旅游鞋子男",
+      "raw_title": "冬季男鞋运动鞋加绒棉鞋减震跑步鞋休闲鞋男士潮鞋气垫旅游鞋子男",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/i2/3422361804/O1CN01mm2zCO1PCGzJZTZO7_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=579627327747&ns=1&abbucket=3",
+      "view_price": "138.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 泉州",
+      "view_sales": "36294人付款",
+      "comment_count": "24831",
+      "user_id": "3422361804",
+      "nick": "花左格慕旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          494,
+          1,
+          6251
+        ],
+        "description": [
+          495,
+          1,
+          6478
+        ],
+        "service": [
+          494,
+          1,
+          6662
+        ],
+        "encryptedUserId": "UvGQyvCvLvFgWMNTT",
+        "sellerCredit": 12,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 25,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=579627327747&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=3422361804",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-2060068732&nid=577553581431"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-2060068732&nid=577553581431"
+        }
+      },
+      "p4pTags": [],
+      "nid": "577553581431",
+      "category": "50012906",
+      "pid": "-2060068732",
+      "title": "冬季<span class=H>男鞋</span>运动鞋男士跑步鞋加绒耐磨休闲鞋男韩版保暖旅游潮鞋子男",
+      "raw_title": "冬季男鞋运动鞋男士跑步鞋加绒耐磨休闲鞋男韩版保暖旅游潮鞋子男",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i1/867708959/O1CN012G3Gp7UQWRhDHlo_!!867708959.jpg",
+      "detail_url": "//item.taobao.com/item.htm?id=577553581431&ns=1&abbucket=3#detail",
+      "view_price": "135.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 泉州",
+      "view_sales": "19668人付款",
+      "comment_count": "24904",
+      "user_id": "867708959",
+      "nick": "李灿1237",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": false,
+        "delivery": [
+          495,
+          1,
+          7054
+        ],
+        "description": [
+          494,
+          1,
+          7239
+        ],
+        "service": [
+          495,
+          1,
+          7259
+        ],
+        "encryptedUserId": "UOmxuMGN4OF8S",
+        "sellerCredit": 14,
+        "totalRate": 9949
+      },
+      "icon": [
+        {
+          "title": "金牌卖家从千万卖家中脱颖而出，会为您的购物体验带来更多信任和安心",
+          "dom_class": "icon-service-jinpaimaijia",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "shop",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-jinpaimaijia",
+          "trace": "srpservice",
+          "traceIdx": 26,
+          "innerText": "金牌卖家",
+          "url": "//www.taobao.com/go/act/jpmj.php",
+          "iconPopupNormal": {
+            "dom_class": "icon-service-jinpaimaijia-l"
+          }
+        },
+        {
+          "title": "公益宝贝",
+          "dom_class": "icon-fest-gongyibaobei",
+          "position": "2",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-fest-gongyibaobei",
+          "trace": "srpservice",
+          "traceIdx": 27,
+          "innerText": "公益宝贝"
+        }
+      ],
+      "comment_url": "//item.taobao.com/item.htm?id=577553581431&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=867708959",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1306916959&nid=579362311436"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1306916959&nid=579362311436"
+        }
+      },
+      "p4pTags": [],
+      "nid": "579362311436",
+      "category": "50011744",
+      "pid": "-1306916959",
+      "title": "<span class=H>男鞋</span>冬季加绒保暖棉鞋运动鞋潮鞋2018新款休闲韩版男百搭跑步鞋子",
+      "raw_title": "男鞋冬季加绒保暖棉鞋运动鞋潮鞋2018新款休闲韩版男百搭跑步鞋子",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i2/535677446/O1CN0124sJZRqCrFOpaX3_!!535677446.jpg",
+      "detail_url": "//item.taobao.com/item.htm?id=579362311436&ns=1&abbucket=3#detail",
+      "view_price": "128.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 泉州",
+      "view_sales": "7047人付款",
+      "comment_count": "1408",
+      "user_id": "535677446",
+      "nick": "鞋服之家1001",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": false,
+        "delivery": [
+          495,
+          1,
+          7034
+        ],
+        "description": [
+          493,
+          1,
+          6979
+        ],
+        "service": [
+          495,
+          1,
+          6986
+        ],
+        "encryptedUserId": "UMFvbMCcuMmQL",
+        "sellerCredit": 12,
+        "totalRate": 9955
+      },
+      "icon": [
+        {
+          "title": "金牌卖家从千万卖家中脱颖而出，会为您的购物体验带来更多信任和安心",
+          "dom_class": "icon-service-jinpaimaijia",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "shop",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-jinpaimaijia",
+          "trace": "srpservice",
+          "traceIdx": 28,
+          "innerText": "金牌卖家",
+          "url": "//www.taobao.com/go/act/jpmj.php",
+          "iconPopupNormal": {
+            "dom_class": "icon-service-jinpaimaijia-l"
+          }
+        },
+        {
+          "title": "公益宝贝",
+          "dom_class": "icon-fest-gongyibaobei",
+          "position": "2",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-fest-gongyibaobei",
+          "trace": "srpservice",
+          "traceIdx": 29,
+          "innerText": "公益宝贝"
+        }
+      ],
+      "comment_url": "//item.taobao.com/item.htm?id=579362311436&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=535677446",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1441946092&nid=575481605595"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1441946092&nid=575481605595"
+        }
+      },
+      "p4pTags": [],
+      "nid": "575481605595",
+      "category": "50012906",
+      "pid": "-1441946092",
+      "title": "老人头<span class=H>男鞋</span>冬季男士商务休闲皮鞋男真皮软皮软底加绒中年爸爸鞋子",
+      "raw_title": "老人头男鞋冬季男士商务休闲皮鞋男真皮软皮软底加绒中年爸爸鞋子",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i3/801020162/O1CN01Ka2UOT1D4EdlhOF3k_!!801020162.jpg",
+      "detail_url": "//item.taobao.com/item.htm?id=575481605595&ns=1&abbucket=3#detail",
+      "view_price": "188.00",
+      "view_fee": "0.00",
+      "item_loc": "浙江 温州",
+      "view_sales": "2069人付款",
+      "comment_count": "13119",
+      "user_id": "801020162",
+      "nick": "apples慧聪",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": false,
+        "delivery": [
+          496,
+          1,
+          7895
+        ],
+        "description": [
+          496,
+          1,
+          8361
+        ],
+        "service": [
+          497,
+          1,
+          8148
+        ],
+        "encryptedUserId": "UOmNYvmIWvFxy",
+        "sellerCredit": 12,
+        "totalRate": 9905
+      },
+      "icon": [
+        {
+          "title": "金牌卖家从千万卖家中脱颖而出，会为您的购物体验带来更多信任和安心",
+          "dom_class": "icon-service-jinpaimaijia",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "shop",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-jinpaimaijia",
+          "trace": "srpservice",
+          "traceIdx": 30,
+          "innerText": "金牌卖家",
+          "url": "//www.taobao.com/go/act/jpmj.php",
+          "iconPopupNormal": {
+            "dom_class": "icon-service-jinpaimaijia-l"
+          }
+        },
+        {
+          "title": "卖家提供以下贴心服务：",
+          "dom_class": "icon-service-fuwu",
+          "position": "99",
+          "show_type": "1",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-fuwu",
+          "trace": "srpservice",
+          "traceIdx": 31,
+          "innerText": "分组-服务",
+          "iconPopupComplex": {
+            "popup_title": "卖家提供以下贴心服务：",
+            "subIcons": [
+              {
+                "dom_class": "icon-service-7tianjia",
+                "icon_content": "15天退货"
+              }
+            ]
+          }
+        },
+        {
+          "title": "公益宝贝",
+          "dom_class": "icon-fest-gongyibaobei",
+          "position": "2",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-fest-gongyibaobei",
+          "trace": "srpservice",
+          "traceIdx": 32,
+          "innerText": "公益宝贝"
+        }
+      ],
+      "comment_url": "//item.taobao.com/item.htm?id=575481605595&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=801020162",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-485572790&nid=581718400701"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-485572790&nid=581718400701"
+        }
+      },
+      "p4pTags": [],
+      "nid": "581718400701",
+      "category": "50012906",
+      "pid": "-485572790",
+      "title": "冬季商务正装皮鞋男内增高男士黑色休闲尖头韩版英伦百搭加绒婚鞋",
+      "raw_title": "冬季商务正装皮鞋男内增高男士黑色休闲尖头韩版英伦百搭加绒婚鞋",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i4/1801152425/O1CN01OSFAtm1TmgwYq8yjp_!!1801152425.jpg",
+      "detail_url": "//item.taobao.com/item.htm?id=581718400701&ns=1&abbucket=3#detail",
+      "view_price": "168.00",
+      "view_fee": "0.00",
+      "item_loc": "浙江 温州",
+      "view_sales": "6836人付款",
+      "comment_count": "2013",
+      "user_id": "1801152425",
+      "nick": "梦想少了点东西",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": false,
+        "delivery": [
+          494,
+          1,
+          6681
+        ],
+        "description": [
+          494,
+          1,
+          7197
+        ],
+        "service": [
+          494,
+          1,
+          6734
+        ],
+        "encryptedUserId": "UvFgWvFHbvCQyMQTT",
+        "sellerCredit": 12,
+        "totalRate": 9979
+      },
+      "icon": [],
+      "comment_url": "//item.taobao.com/item.htm?id=581718400701&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=1801152425",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-685914654&nid=579304109538"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-685914654&nid=579304109538"
+        }
+      },
+      "p4pTags": [],
+      "nid": "579304109538",
+      "category": "50012906",
+      "pid": "-685914654",
+      "title": "<span class=H>男鞋</span>冬季防臭男士运动休闲鞋韩版潮鞋棉鞋百搭跑步鞋子板鞋旅游鞋",
+      "raw_title": "男鞋冬季防臭男士运动休闲鞋韩版潮鞋棉鞋百搭跑步鞋子板鞋旅游鞋",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i3/1796858790/O1CN01CRzpcY2EnrtTk8bks_!!1796858790.jpg",
+      "detail_url": "//item.taobao.com/item.htm?id=579304109538&ns=1&abbucket=3#detail",
+      "view_price": "136.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 泉州",
+      "view_sales": "11528人付款",
+      "comment_count": "2874",
+      "user_id": "1796858790",
+      "nick": "金辉喜碧",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": false,
+        "delivery": [
+          496,
+          1,
+          7959
+        ],
+        "description": [
+          495,
+          1,
+          7884
+        ],
+        "service": [
+          496,
+          1,
+          7876
+        ],
+        "encryptedUserId": "UvFcSMCgbOmcSvNTT",
+        "sellerCredit": 14,
+        "totalRate": 9986
+      },
+      "icon": [
+        {
+          "title": "金牌卖家从千万卖家中脱颖而出，会为您的购物体验带来更多信任和安心",
+          "dom_class": "icon-service-jinpaimaijia",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "shop",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-jinpaimaijia",
+          "trace": "srpservice",
+          "traceIdx": 33,
+          "innerText": "金牌卖家",
+          "url": "//www.taobao.com/go/act/jpmj.php",
+          "iconPopupNormal": {
+            "dom_class": "icon-service-jinpaimaijia-l"
+          }
+        },
+        {
+          "title": "卖家提供以下贴心服务：",
+          "dom_class": "icon-service-fuwu",
+          "position": "99",
+          "show_type": "1",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-fuwu",
+          "trace": "srpservice",
+          "traceIdx": 34,
+          "innerText": "分组-服务",
+          "iconPopupComplex": {
+            "popup_title": "卖家提供以下贴心服务：",
+            "subIcons": [
+              {
+                "dom_class": "icon-service-7tianjia",
+                "icon_content": "15天退货"
+              }
+            ]
+          }
+        },
+        {
+          "title": "公益宝贝",
+          "dom_class": "icon-fest-gongyibaobei",
+          "position": "2",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-fest-gongyibaobei",
+          "trace": "srpservice",
+          "traceIdx": 35,
+          "innerText": "公益宝贝"
+        }
+      ],
+      "comment_url": "//item.taobao.com/item.htm?id=579304109538&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=1796858790",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1727687691&nid=576968753608"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1727687691&nid=576968753608"
+        }
+      },
+      "p4pTags": [],
+      "nid": "576968753608",
+      "category": "50011743",
+      "pid": "-1727687691",
+      "title": "走索冬季马丁靴男加绒潮流英伦<span class=H>男鞋</span>沙漠短靴高帮棉鞋工装雪地靴子",
+      "raw_title": "走索冬季马丁靴男加绒潮流英伦男鞋沙漠短靴高帮棉鞋工装雪地靴子",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i1/1017595835/O1CN01FMTdPZ1syTWngGulg_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=576968753608&ns=1&abbucket=3",
+      "view_price": "288.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 莆田",
+      "view_sales": "19791人付款",
+      "comment_count": "22121",
+      "user_id": "1017595835",
+      "nick": "zsuo走索旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          488,
+          1,
+          3208
+        ],
+        "description": [
+          492,
+          1,
+          3847
+        ],
+        "service": [
+          490,
+          1,
+          4227
+        ],
+        "encryptedUserId": "UvFNYMG8SMFgGMQTT",
+        "sellerCredit": 15,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 36,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        },
+        {
+          "title": "公益宝贝",
+          "dom_class": "icon-fest-gongyibaobei",
+          "position": "2",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-fest-gongyibaobei",
+          "trace": "srpservice",
+          "traceIdx": 37,
+          "innerText": "公益宝贝"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=576968753608&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=1017595835",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-713331267&nid=582818987073"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-713331267&nid=582818987073"
+        }
+      },
+      "p4pTags": [],
+      "nid": "582818987073",
+      "category": "50012906",
+      "pid": "-713331267",
+      "title": "<span class=H>男鞋</span>冬季加绒保暖棉鞋耐磨登山鞋户外休闲运动鞋潮鞋旅游鞋爸爸鞋",
+      "raw_title": "男鞋冬季加绒保暖棉鞋耐磨登山鞋户外休闲运动鞋潮鞋旅游鞋爸爸鞋",
+      "pic_url": "//g-search2.alicdn.com/img/bao/uploaded/i4/i2/1872563544/O1CN01uw89oU1c3C8dzqan8_!!1872563544.jpg",
+      "detail_url": "//item.taobao.com/item.htm?id=582818987073&ns=1&abbucket=3#detail",
+      "view_price": "128.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 泉州",
+      "view_sales": "7855人付款",
+      "comment_count": "111",
+      "user_id": "1872563544",
+      "nick": "duiiii",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": false,
+        "delivery": [
+          497,
+          1,
+          8380
+        ],
+        "description": [
+          496,
+          1,
+          8322
+        ],
+        "service": [
+          497,
+          1,
+          8237
+        ],
+        "encryptedUserId": "UvFguvC8LvG80MNTT",
+        "sellerCredit": 14,
+        "totalRate": 9945
+      },
+      "icon": [
+        {
+          "title": "金牌卖家从千万卖家中脱颖而出，会为您的购物体验带来更多信任和安心",
+          "dom_class": "icon-service-jinpaimaijia",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "shop",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-jinpaimaijia",
+          "trace": "srpservice",
+          "traceIdx": 38,
+          "innerText": "金牌卖家",
+          "url": "//www.taobao.com/go/act/jpmj.php",
+          "iconPopupNormal": {
+            "dom_class": "icon-service-jinpaimaijia-l"
+          }
+        }
+      ],
+      "comment_url": "//item.taobao.com/item.htm?id=582818987073&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=1872563544",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-346312500&nid=581464487885"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-346312500&nid=581464487885"
+        }
+      },
+      "p4pTags": [],
+      "nid": "581464487885",
+      "category": "50012906",
+      "pid": "-346312500",
+      "title": "正品 新百倫運動鞋有限公司NB580低帮休闲鞋子<span class=H>男鞋</span>冬季官方旗艦店",
+      "raw_title": "正品 新百倫運動鞋有限公司NB580低帮休闲鞋子男鞋冬季官方旗艦店",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/i4/77199662/O1CN01MmA5V42LFFGxkdnk6_!!0-item_pic.jpg",
+      "detail_url": "//item.taobao.com/item.htm?id=581464487885&ns=1&abbucket=3#detail",
+      "view_price": "285.00",
+      "view_fee": "0.00",
+      "item_loc": "海外",
+      "view_sales": "7093人付款",
+      "comment_count": "1895",
+      "user_id": "77199662",
+      "nick": "都市小达人andyli",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": false,
+        "delivery": [
+          495,
+          1,
+          7201
+        ],
+        "description": [
+          495,
+          1,
+          7559
+        ],
+        "service": [
+          495,
+          1,
+          7448
+        ],
+        "encryptedUserId": "UMGcYOFkLMCIT",
+        "sellerCredit": 12,
+        "totalRate": 9910
+      },
+      "icon": [
+        {
+          "title": "金牌卖家从千万卖家中脱颖而出，会为您的购物体验带来更多信任和安心",
+          "dom_class": "icon-service-jinpaimaijia",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "shop",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-jinpaimaijia",
+          "trace": "srpservice",
+          "traceIdx": 39,
+          "innerText": "金牌卖家",
+          "url": "//www.taobao.com/go/act/jpmj.php",
+          "iconPopupNormal": {
+            "dom_class": "icon-service-jinpaimaijia-l"
+          }
+        }
+      ],
+      "comment_url": "//item.taobao.com/item.htm?id=581464487885&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=77199662",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1826093444&nid=538957988991"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1826093444&nid=538957988991"
+        }
+      },
+      "p4pTags": [],
+      "nid": "538957988991",
+      "category": "50012906",
+      "pid": "-1826093444",
+      "title": "红蜻蜓<span class=H>男鞋</span>真皮休闲鞋男棉鞋男加绒保暖冬季男士皮鞋爸爸鞋皮鞋男",
+      "raw_title": "红蜻蜓男鞋真皮休闲鞋男棉鞋男加绒保暖冬季男士皮鞋爸爸鞋皮鞋男",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/i4/1857837347/O1CN01iGevTT248yNKibl6J_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=538957988991&ns=1&abbucket=3",
+      "view_price": "199.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 泉州",
+      "view_sales": "6173人付款",
+      "comment_count": "25773",
+      "user_id": "1857837347",
+      "nick": "红蜻蜓厦和讯专卖店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          490,
+          1,
+          4003
+        ],
+        "description": [
+          493,
+          1,
+          4697
+        ],
+        "service": [
+          490,
+          1,
+          4192
+        ],
+        "encryptedUserId": "UvFgbMGgGMGv0MWTT",
+        "sellerCredit": 14,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 40,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=538957988991&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=1857837347",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-862427762&nid=540402046554"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-862427762&nid=540402046554"
+        }
+      },
+      "p4pTags": [],
+      "nid": "540402046554",
+      "category": "50012906",
+      "pid": "-862427762",
+      "title": "花花公子<span class=H>男鞋</span>冬季加绒真皮男士黑色商务皮鞋男休闲皮鞋英伦尖头鞋",
+      "raw_title": "花花公子男鞋冬季加绒真皮男士黑色商务皮鞋男休闲皮鞋英伦尖头鞋",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i1/2250440224/O1CN01oY0QGd1DWdCR2erXd_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=540402046554&ns=1&abbucket=3",
+      "view_price": "298.00",
+      "view_fee": "0.00",
+      "item_loc": "浙江 温州",
+      "view_sales": "2072人付款",
+      "comment_count": "5271",
+      "user_id": "2250440224",
+      "nick": "日拓鞋类专营店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          488,
+          1,
+          3347
+        ],
+        "description": [
+          493,
+          1,
+          4666
+        ],
+        "service": [
+          490,
+          1,
+          4163
+        ],
+        "encryptedUserId": "UvCIbvmQ0vmIyMNTT",
+        "sellerCredit": 11,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 41,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=540402046554&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=2250440224",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-262015965&nid=575978732934"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-262015965&nid=575978732934"
+        }
+      },
+      "p4pTags": [],
+      "nid": "575978732934",
+      "category": "50012906",
+      "pid": "-262015965",
+      "title": "小白鞋<span class=H>男鞋</span>冬季加绒保暖鞋子男潮鞋增高老爹鞋白色运动休闲棉鞋男",
+      "raw_title": "小白鞋男鞋冬季加绒保暖鞋子男潮鞋增高老爹鞋白色运动休闲棉鞋男",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i3/3470687433/O1CN0124mMQZYSHfQ6d6M_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=575978732934&ns=1&abbucket=3",
+      "view_price": "168.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 厦门",
+      "view_sales": "17411人付款",
+      "comment_count": "11066",
+      "user_id": "3470687433",
+      "nick": "巡航鸟旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          495,
+          1,
+          6959
+        ],
+        "description": [
+          496,
+          1,
+          6956
+        ],
+        "service": [
+          496,
+          1,
+          7367
+        ],
+        "encryptedUserId": "UvGQuvmx4MGQGvWTT",
+        "sellerCredit": 12,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 42,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=575978732934&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=3470687433",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1685161781&nid=581021724714"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1685161781&nid=581021724714"
+        }
+      },
+      "p4pTags": [],
+      "nid": "581021724714",
+      "category": "50012906",
+      "pid": "-1685161781",
+      "title": "正品 新百倫運動鞋有限公司NB574低帮休闲鞋子<span class=H>男鞋</span>冬季官方旗艦店",
+      "raw_title": "正品 新百倫運動鞋有限公司NB574低帮休闲鞋子男鞋冬季官方旗艦店",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i1/77199662/O1CN01DZ59Dm2LFFGwF1g1T_!!0-item_pic.jpg",
+      "detail_url": "//item.taobao.com/item.htm?id=581021724714&ns=1&abbucket=3#detail",
+      "view_price": "265.00",
+      "view_fee": "0.00",
+      "item_loc": "海外",
+      "view_sales": "8059人付款",
+      "comment_count": "1939",
+      "user_id": "77199662",
+      "nick": "都市小达人andyli",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": false,
+        "delivery": [
+          495,
+          1,
+          7201
+        ],
+        "description": [
+          495,
+          1,
+          7559
+        ],
+        "service": [
+          495,
+          1,
+          7448
+        ],
+        "encryptedUserId": "UMGcYOFkLMCIT",
+        "sellerCredit": 12,
+        "totalRate": 9910
+      },
+      "icon": [
+        {
+          "title": "金牌卖家从千万卖家中脱颖而出，会为您的购物体验带来更多信任和安心",
+          "dom_class": "icon-service-jinpaimaijia",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "shop",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-jinpaimaijia",
+          "trace": "srpservice",
+          "traceIdx": 43,
+          "innerText": "金牌卖家",
+          "url": "//www.taobao.com/go/act/jpmj.php",
+          "iconPopupNormal": {
+            "dom_class": "icon-service-jinpaimaijia-l"
+          }
+        }
+      ],
+      "comment_url": "//item.taobao.com/item.htm?id=581021724714&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=77199662",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-392427753&nid=582581187606"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-392427753&nid=582581187606"
+        }
+      },
+      "p4pTags": [],
+      "nid": "582581187606",
+      "category": "50011743",
+      "pid": "-392427753",
+      "title": "雪地靴男冬季加绒保暖防水东北大码棉鞋加厚男士户外防滑高帮棉靴",
+      "raw_title": "雪地靴男冬季加绒保暖防水东北大码棉鞋加厚男士户外防滑高帮棉靴",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i2/897431238/O1CN01zfAuDz1L12oJ2WLau_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=582581187606&ns=1&abbucket=3",
+      "view_price": "168.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 泉州",
+      "view_sales": "5095人付款",
+      "comment_count": "1271",
+      "user_id": "897431238",
+      "nick": "岛内狼旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          494,
+          1,
+          6194
+        ],
+        "description": [
+          496,
+          1,
+          6683
+        ],
+        "service": [
+          494,
+          1,
+          6124
+        ],
+        "encryptedUserId": "UOmkuMmvYvCv4",
+        "sellerCredit": 12,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 44,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        },
+        {
+          "title": "当季新品",
+          "dom_class": "icon-service-xinpin",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-xinpin",
+          "trace": "srpservice",
+          "traceIdx": 45,
+          "innerText": "新品",
+          "url": "//service.taobao.com/support/knowledge-1138476.htm"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=582581187606&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=897431238",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1540446276&nid=575419841759"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1540446276&nid=575419841759"
+        }
+      },
+      "p4pTags": [],
+      "nid": "575419841759",
+      "category": "50011744",
+      "pid": "-1540446276",
+      "title": "<span class=H>男鞋</span>2018加绒休闲白色运动鞋男韩版潮流ins鞋子男潮鞋棉鞋男冬季",
+      "raw_title": "男鞋2018加绒休闲白色运动鞋男韩版潮流ins鞋子男潮鞋棉鞋男冬季",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i3/3470687433/O1CN0124mMQZC7cFcu0WL_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=575419841759&ns=1&abbucket=3",
+      "view_price": "168.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 厦门",
+      "view_sales": "4588人付款",
+      "comment_count": "2213",
+      "user_id": "3470687433",
+      "nick": "巡航鸟旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          495,
+          1,
+          6959
+        ],
+        "description": [
+          496,
+          1,
+          6956
+        ],
+        "service": [
+          496,
+          1,
+          7367
+        ],
+        "encryptedUserId": "UvGQuvmx4MGQGvWTT",
+        "sellerCredit": 12,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 46,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=575419841759&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=3470687433",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-166874200&nid=581995610604"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-166874200&nid=581995610604"
+        }
+      },
+      "p4pTags": [],
+      "nid": "581995610604",
+      "category": "50012906",
+      "pid": "-166874200",
+      "title": "花花公子<span class=H>男鞋</span>冬季皮面运动鞋防臭休闲鞋保暖男士跑步棉鞋旅游潮鞋",
+      "raw_title": "花花公子男鞋冬季皮面运动鞋防臭休闲鞋保暖男士跑步棉鞋旅游潮鞋",
+      "pic_url": "//g-search2.alicdn.com/img/bao/uploaded/i4/i4/118605482/O1CN01N463e61qMnhwaO7H0_!!118605482.jpg",
+      "detail_url": "//item.taobao.com/item.htm?id=581995610604&ns=1&abbucket=3#detail",
+      "view_price": "168.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 泉州",
+      "view_sales": "4654人付款",
+      "comment_count": "289",
+      "user_id": "118605482",
+      "nick": "pmlleo",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": false,
+        "delivery": [
+          496,
+          1,
+          7628
+        ],
+        "description": [
+          495,
+          1,
+          7689
+        ],
+        "service": [
+          496,
+          1,
+          7883
+        ],
+        "encryptedUserId": "UvFH4MCNbMmgy",
+        "sellerCredit": 11,
+        "totalRate": 9954
+      },
+      "icon": [
+        {
+          "title": "金牌卖家从千万卖家中脱颖而出，会为您的购物体验带来更多信任和安心",
+          "dom_class": "icon-service-jinpaimaijia",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "shop",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-jinpaimaijia",
+          "trace": "srpservice",
+          "traceIdx": 47,
+          "innerText": "金牌卖家",
+          "url": "//www.taobao.com/go/act/jpmj.php",
+          "iconPopupNormal": {
+            "dom_class": "icon-service-jinpaimaijia-l"
+          }
+        },
+        {
+          "title": "卖家提供以下贴心服务：",
+          "dom_class": "icon-service-fuwu",
+          "position": "99",
+          "show_type": "1",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-fuwu",
+          "trace": "srpservice",
+          "traceIdx": 48,
+          "innerText": "分组-服务",
+          "iconPopupComplex": {
+            "popup_title": "卖家提供以下贴心服务：",
+            "subIcons": [
+              {
+                "dom_class": "icon-service-7tianjia",
+                "icon_content": "15天退货"
+              }
+            ]
+          }
+        },
+        {
+          "title": "公益宝贝",
+          "dom_class": "icon-fest-gongyibaobei",
+          "position": "2",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-fest-gongyibaobei",
+          "trace": "srpservice",
+          "traceIdx": 49,
+          "innerText": "公益宝贝"
+        }
+      ],
+      "comment_url": "//item.taobao.com/item.htm?id=581995610604&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=118605482",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-727632229&nid=583098603004"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-727632229&nid=583098603004"
+        }
+      },
+      "p4pTags": [],
+      "nid": "583098603004",
+      "category": "50011744",
+      "pid": "-727632229",
+      "title": "<span class=H>男鞋</span>冬季加绒保暖板鞋高帮鞋男韩版潮流百搭帆布高邦棉鞋子男潮鞋",
+      "raw_title": "男鞋冬季加绒保暖板鞋高帮鞋男韩版潮流百搭帆布高邦棉鞋子男潮鞋",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i2/695708843/O1CN01CaYkUz2FC8t9s0Su6_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=583098603004&ns=1&abbucket=3",
+      "view_price": "158.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 泉州",
+      "view_sales": "2832人付款",
+      "comment_count": "475",
+      "user_id": "695708843",
+      "nick": "maueken旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          492,
+          1,
+          5064
+        ],
+        "description": [
+          494,
+          1,
+          5048
+        ],
+        "service": [
+          492,
+          1,
+          5107
+        ],
+        "encryptedUserId": "UMCkbMGN4OmQG",
+        "sellerCredit": 14,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 50,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        },
+        {
+          "title": "当季新品",
+          "dom_class": "icon-service-xinpin",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-xinpin",
+          "trace": "srpservice",
+          "traceIdx": 51,
+          "innerText": "新品",
+          "url": "//service.taobao.com/support/knowledge-1138476.htm"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=583098603004&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=695708843",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1136891684&nid=578532327461"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1136891684&nid=578532327461"
+        }
+      },
+      "p4pTags": [],
+      "nid": "578532327461",
+      "category": "50012907",
+      "pid": "-1136891684",
+      "title": "奥康棉鞋男冬季保暖加绒加厚男士棉鞋中老年人真皮防滑高帮爸爸鞋",
+      "raw_title": "奥康棉鞋男冬季保暖加绒加厚男士棉鞋中老年人真皮防滑高帮爸爸鞋",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/i3/2943953365/O1CN01qMF82U1ajDFLKIODT_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=578532327461&ns=1&abbucket=3",
+      "view_price": "209.00",
+      "view_fee": "0.00",
+      "item_loc": "上海",
+      "view_sales": "2554人付款",
+      "comment_count": "1884",
+      "user_id": "2943953365",
+      "nick": "aokang奥康淘哲专卖店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          493,
+          1,
+          5789
+        ],
+        "description": [
+          496,
+          1,
+          6592
+        ],
+        "service": [
+          493,
+          1,
+          5994
+        ],
+        "encryptedUserId": "UvCk0vGkbvGvLMQTT",
+        "sellerCredit": 13,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 52,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=578532327461&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=2943953365",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-281226639&nid=578813608190"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-281226639&nid=578813608190"
+        }
+      },
+      "p4pTags": [],
+      "nid": "578813608190",
+      "category": "50012906",
+      "pid": "-281226639",
+      "title": "皮鞋男冬季加绒商务正装真皮男士韩版潮休闲黑色尖头内增高男棉鞋",
+      "raw_title": "皮鞋男冬季加绒商务正装真皮男士韩版潮休闲黑色尖头内增高男棉鞋",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i1/810460236/O1CN01ZktmFw1Dc7xNHMGQ1_!!810460236.jpg",
+      "detail_url": "//item.taobao.com/item.htm?id=578813608190&ns=1&abbucket=3#detail",
+      "view_price": "118.00",
+      "view_fee": "0.00",
+      "item_loc": "浙江 温州",
+      "view_sales": "18290人付款",
+      "comment_count": "9804",
+      "user_id": "810460236",
+      "nick": "paulgety",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": false,
+        "delivery": [
+          495,
+          1,
+          7230
+        ],
+        "description": [
+          494,
+          1,
+          7370
+        ],
+        "service": [
+          495,
+          1,
+          7276
+        ],
+        "encryptedUserId": "UOmHWMmxWvCvL",
+        "sellerCredit": 14,
+        "totalRate": 9932
+      },
+      "icon": [
+        {
+          "title": "金牌卖家从千万卖家中脱颖而出，会为您的购物体验带来更多信任和安心",
+          "dom_class": "icon-service-jinpaimaijia",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "shop",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-jinpaimaijia",
+          "trace": "srpservice",
+          "traceIdx": 53,
+          "innerText": "金牌卖家",
+          "url": "//www.taobao.com/go/act/jpmj.php",
+          "iconPopupNormal": {
+            "dom_class": "icon-service-jinpaimaijia-l"
+          }
+        },
+        {
+          "title": "卖家提供以下贴心服务：",
+          "dom_class": "icon-service-fuwu",
+          "position": "99",
+          "show_type": "1",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-fuwu",
+          "trace": "srpservice",
+          "traceIdx": 54,
+          "innerText": "分组-服务",
+          "iconPopupComplex": {
+            "popup_title": "卖家提供以下贴心服务：",
+            "subIcons": [
+              {
+                "dom_class": "icon-service-7tianjia",
+                "icon_content": "15天退货"
+              }
+            ]
+          }
+        },
+        {
+          "title": "公益宝贝",
+          "dom_class": "icon-fest-gongyibaobei",
+          "position": "2",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-fest-gongyibaobei",
+          "trace": "srpservice",
+          "traceIdx": 55,
+          "innerText": "公益宝贝"
+        }
+      ],
+      "comment_url": "//item.taobao.com/item.htm?id=578813608190&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=810460236",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1539159400&nid=44427110085"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1539159400&nid=44427110085"
+        }
+      },
+      "p4pTags": [],
+      "nid": "44427110085",
+      "category": "50012906",
+      "pid": "-1539159400",
+      "title": "帛梵<span class=H>男鞋</span>冬季男士商务正装皮鞋男韩版真皮英伦婚鞋棉鞋软底鞋子男",
+      "raw_title": "帛梵男鞋冬季男士商务正装皮鞋男韩版真皮英伦婚鞋棉鞋软底鞋子男",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i3/839265012/O1CN01kYWywI1mtXYnpcS2l_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=44427110085&ns=1&abbucket=3",
+      "view_price": "298.00",
+      "view_fee": "0.00",
+      "item_loc": "浙江 温州",
+      "view_sales": "1371人付款",
+      "comment_count": "7880",
+      "user_id": "839265012",
+      "nick": "帛梵旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          488,
+          1,
+          2978
+        ],
+        "description": [
+          490,
+          1,
+          2118
+        ],
+        "service": [
+          488,
+          1,
+          2789
+        ],
+        "encryptedUserId": "UOmvSvCxbvmHy",
+        "sellerCredit": 14,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 56,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=44427110085&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=839265012",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1154766862&nid=583284886723"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1154766862&nid=583284886723"
+        }
+      },
+      "p4pTags": [],
+      "nid": "583284886723",
+      "category": "50012906",
+      "pid": "-1154766862",
+      "title": "走索鞋子男潮鞋英伦工装马丁鞋男韩版真皮休闲鞋百搭板鞋冬季<span class=H>男鞋</span>",
+      "raw_title": "走索鞋子男潮鞋英伦工装马丁鞋男韩版真皮休闲鞋百搭板鞋冬季男鞋",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i3/2012649614/O1CN016JAKrg2KtGG5bR22V_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=583284886723&ns=1&abbucket=3",
+      "view_price": "278.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 莆田",
+      "view_sales": "1800人付款",
+      "comment_count": "371",
+      "user_id": "2012649614",
+      "nick": "诚信传奇鞋类专营店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          496,
+          1,
+          7359
+        ],
+        "description": [
+          497,
+          1,
+          7354
+        ],
+        "service": [
+          496,
+          1,
+          7428
+        ],
+        "encryptedUserId": "UvCNYvCx0OFxYMNTT",
+        "sellerCredit": 11,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 57,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        },
+        {
+          "title": "当季新品",
+          "dom_class": "icon-service-xinpin",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-xinpin",
+          "trace": "srpservice",
+          "traceIdx": 58,
+          "innerText": "新品",
+          "url": "//service.taobao.com/support/knowledge-1138476.htm"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=583284886723&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=2012649614",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-694143560&nid=575922657187"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-694143560&nid=575922657187"
+        }
+      },
+      "p4pTags": [],
+      "nid": "575922657187",
+      "category": "50011744",
+      "pid": "-694143560",
+      "title": "<span class=H>男鞋</span>秋冬季加绒保暖棉鞋男士休闲大码韩版潮流运动鞋百搭跑步鞋子",
+      "raw_title": "男鞋秋冬季加绒保暖棉鞋男士休闲大码韩版潮流运动鞋百搭跑步鞋子",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i4/897431238/O1CN011L12nvoN7d3xRaa_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=575922657187&ns=1&abbucket=3",
+      "view_price": "88.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 泉州",
+      "view_sales": "8064人付款",
+      "comment_count": "10858",
+      "user_id": "897431238",
+      "nick": "岛内狼旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          494,
+          1,
+          6194
+        ],
+        "description": [
+          496,
+          1,
+          6683
+        ],
+        "service": [
+          494,
+          1,
+          6124
+        ],
+        "encryptedUserId": "UOmkuMmvYvCv4",
+        "sellerCredit": 12,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 59,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        },
+        {
+          "title": "公益宝贝",
+          "dom_class": "icon-fest-gongyibaobei",
+          "position": "2",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-fest-gongyibaobei",
+          "trace": "srpservice",
+          "traceIdx": 60,
+          "innerText": "公益宝贝"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=575922657187&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=897431238",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1291240513&nid=582222069055"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1291240513&nid=582222069055"
+        }
+      },
+      "p4pTags": [],
+      "nid": "582222069055",
+      "category": "50012906",
+      "pid": "-1291240513",
+      "title": "走索<span class=H>男鞋</span>冬季潮鞋休闲板鞋英伦工装韩版潮流马丁靴百搭高帮鞋子男",
+      "raw_title": "走索男鞋冬季潮鞋休闲板鞋英伦工装韩版潮流马丁靴百搭高帮鞋子男",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i4/2225380143/O1CN01N5y6nP1CvX7Kf2Baq_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=582222069055&ns=1&abbucket=3",
+      "view_price": "348.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 莆田",
+      "view_sales": "3879人付款",
+      "comment_count": "1684",
+      "user_id": "2225380143",
+      "nick": "zsuo鑫协专卖店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          493,
+          1,
+          5534
+        ],
+        "description": [
+          491,
+          1,
+          2842
+        ],
+        "service": [
+          491,
+          1,
+          4687
+        ],
+        "encryptedUserId": "UvCIyMFv4vmH0vWTT",
+        "sellerCredit": 11,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 61,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        },
+        {
+          "title": "当季新品",
+          "dom_class": "icon-service-xinpin",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-xinpin",
+          "trace": "srpservice",
+          "traceIdx": 62,
+          "innerText": "新品",
+          "url": "//service.taobao.com/support/knowledge-1138476.htm"
+        },
+        {
+          "title": "公益宝贝",
+          "dom_class": "icon-fest-gongyibaobei",
+          "position": "2",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-fest-gongyibaobei",
+          "trace": "srpservice",
+          "traceIdx": 63,
+          "innerText": "公益宝贝"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=582222069055&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=2225380143",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-478020263&nid=582589578375"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-478020263&nid=582589578375"
+        }
+      },
+      "p4pTags": [],
+      "nid": "582589578375",
+      "category": "50012906",
+      "pid": "-478020263",
+      "title": "冬季万千 骆驼<span class=H>男鞋</span>真皮加绒保暖防滑商务休闲皮鞋男士棉鞋爸爸鞋",
+      "raw_title": "冬季万千 骆驼男鞋真皮加绒保暖防滑商务休闲皮鞋男士棉鞋爸爸鞋",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i1/3987637232/O1CN01J4MHa823IIpEd0r1p_!!3987637232.jpg",
+      "detail_url": "//item.taobao.com/item.htm?id=582589578375&ns=1&abbucket=3#detail",
+      "view_price": "138.00",
+      "view_fee": "0.00",
+      "item_loc": "浙江 温州",
+      "view_sales": "3355人付款",
+      "comment_count": "224",
+      "user_id": "3987637232",
+      "nick": "万千骆驼企业店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-zuan"
+          },
+          {
+            "levelClass": "icon-supple-level-zuan"
+          },
+          {
+            "levelClass": "icon-supple-level-zuan"
+          }
+        ],
+        "isTmall": false,
+        "delivery": [
+          495,
+          1,
+          7164
+        ],
+        "description": [
+          495,
+          1,
+          7876
+        ],
+        "service": [
+          495,
+          1,
+          7418
+        ],
+        "encryptedUserId": "UvGk4MGxGMGIGvgTT",
+        "sellerCredit": 8,
+        "totalRate": 9987
+      },
+      "icon": [
+        {
+          "title": "卖家提供以下贴心服务：",
+          "dom_class": "icon-service-fuwu",
+          "position": "99",
+          "show_type": "1",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-fuwu",
+          "trace": "srpservice",
+          "traceIdx": 64,
+          "innerText": "分组-服务",
+          "iconPopupComplex": {
+            "popup_title": "卖家提供以下贴心服务：",
+            "subIcons": [
+              {
+                "dom_class": "icon-service-7tianjia",
+                "icon_content": "15天退货"
+              }
+            ]
+          }
+        }
+      ],
+      "comment_url": "//item.taobao.com/item.htm?id=582589578375&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=3987637232",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1290341923&nid=581859576914"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1290341923&nid=581859576914"
+        }
+      },
+      "p4pTags": [],
+      "nid": "581859576914",
+      "category": "50012906",
+      "pid": "-1290341923",
+      "title": "皮鞋男商务正装内增高男士冬季加绒黑色休闲尖头韩版英伦百搭婚鞋",
+      "raw_title": "皮鞋男商务正装内增高男士冬季加绒黑色休闲尖头韩版英伦百搭婚鞋",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i2/4064773376/O1CN01ETc97f1aoFbTmR4bJ_!!4064773376.jpg",
+      "detail_url": "//item.taobao.com/item.htm?id=581859576914&ns=1&abbucket=3#detail",
+      "view_price": "138.00",
+      "view_fee": "0.00",
+      "item_loc": "浙江 温州",
+      "view_sales": "7409人付款",
+      "comment_count": "1669",
+      "user_id": "4064773376",
+      "nick": "8090男鞋柜",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": false,
+        "delivery": [
+          493,
+          1,
+          6198
+        ],
+        "description": [
+          493,
+          1,
+          6840
+        ],
+        "service": [
+          494,
+          1,
+          6503
+        ],
+        "encryptedUserId": "UMmNLMmcuvGvuMgTT",
+        "sellerCredit": 12,
+        "totalRate": 9974
+      },
+      "icon": [
+        {
+          "title": "金牌卖家从千万卖家中脱颖而出，会为您的购物体验带来更多信任和安心",
+          "dom_class": "icon-service-jinpaimaijia",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "shop",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-jinpaimaijia",
+          "trace": "srpservice",
+          "traceIdx": 65,
+          "innerText": "金牌卖家",
+          "url": "//www.taobao.com/go/act/jpmj.php",
+          "iconPopupNormal": {
+            "dom_class": "icon-service-jinpaimaijia-l"
+          }
+        },
+        {
+          "title": "卖家提供以下贴心服务：",
+          "dom_class": "icon-service-fuwu",
+          "position": "99",
+          "show_type": "1",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-fuwu",
+          "trace": "srpservice",
+          "traceIdx": 66,
+          "innerText": "分组-服务",
+          "iconPopupComplex": {
+            "popup_title": "卖家提供以下贴心服务：",
+            "subIcons": [
+              {
+                "dom_class": "icon-service-7tianjia",
+                "icon_content": "15天退货"
+              }
+            ]
+          }
+        },
+        {
+          "title": "公益宝贝",
+          "dom_class": "icon-fest-gongyibaobei",
+          "position": "2",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-fest-gongyibaobei",
+          "trace": "srpservice",
+          "traceIdx": 67,
+          "innerText": "公益宝贝"
+        }
+      ],
+      "comment_url": "//item.taobao.com/item.htm?id=581859576914&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=4064773376",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-443544798&nid=582384933941"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-443544798&nid=582384933941"
+        }
+      },
+      "p4pTags": [],
+      "nid": "582384933941",
+      "category": "50011743",
+      "pid": "-443544798",
+      "title": "花花公子雪地靴男士冬季<span class=H>男鞋</span>潮鞋子工装马丁靴加绒保暖高帮鞋棉鞋",
+      "raw_title": "花花公子雪地靴男士冬季男鞋潮鞋子工装马丁靴加绒保暖高帮鞋棉鞋",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i3/730081062/O1CN01NSKDwx1JiR6GV3SjX_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=582384933941&ns=1&abbucket=3",
+      "view_price": "268.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 泉州",
+      "view_sales": "2060人付款",
+      "comment_count": "360",
+      "user_id": "730081062",
+      "nick": "亿购客服饰专营店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          495,
+          1,
+          6868
+        ],
+        "description": [
+          497,
+          1,
+          7326
+        ],
+        "service": [
+          495,
+          1,
+          7261
+        ],
+        "encryptedUserId": "UMGvWvmgYvmxy",
+        "sellerCredit": 14,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 68,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        },
+        {
+          "title": "当季新品",
+          "dom_class": "icon-service-xinpin",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-xinpin",
+          "trace": "srpservice",
+          "traceIdx": 69,
+          "innerText": "新品",
+          "url": "//service.taobao.com/support/knowledge-1138476.htm"
+        },
+        {
+          "title": "公益宝贝",
+          "dom_class": "icon-fest-gongyibaobei",
+          "position": "2",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-fest-gongyibaobei",
+          "trace": "srpservice",
+          "traceIdx": 70,
+          "innerText": "公益宝贝"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=582384933941&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=730081062",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-243707107&nid=576990104454"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-243707107&nid=576990104454"
+        }
+      },
+      "p4pTags": [],
+      "nid": "576990104454",
+      "category": "50011743",
+      "pid": "-243707107",
+      "title": "马克华菲靴子男冬季马丁靴男潮加绒短靴英伦中高帮<span class=H>男鞋</span>保暖雪地靴",
+      "raw_title": "马克华菲靴子男冬季马丁靴男潮加绒短靴英伦中高帮男鞋保暖雪地靴",
+      "pic_url": "//g-search2.alicdn.com/img/bao/uploaded/i4/i3/2788410480/O1CN01ywHf3j1FPsb1xrDMn_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=576990104454&ns=1&abbucket=3",
+      "view_price": "369.00",
+      "view_fee": "0.00",
+      "item_loc": "浙江 温州",
+      "view_sales": "8583人付款",
+      "comment_count": "17356",
+      "user_id": "2788410480",
+      "nick": "马克华菲鞋类旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          480,
+          -1,
+          55
+        ],
+        "description": [
+          484,
+          -1,
+          68
+        ],
+        "service": [
+          483,
+          0,
+          0
+        ],
+        "encryptedUserId": "UvCc4OmQYvmQ4vNTT",
+        "sellerCredit": 14,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 71,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        },
+        {
+          "title": "公益宝贝",
+          "dom_class": "icon-fest-gongyibaobei",
+          "position": "2",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-fest-gongyibaobei",
+          "trace": "srpservice",
+          "traceIdx": 72,
+          "innerText": "公益宝贝"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=576990104454&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=2788410480",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-2120481328&nid=579362671921"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-2120481328&nid=579362671921"
+        }
+      },
+      "p4pTags": [],
+      "nid": "579362671921",
+      "category": "50012906",
+      "pid": "-2120481328",
+      "title": "走索<span class=H>男鞋</span>冬季韩版潮流百搭鞋子男潮鞋英伦马丁工装休闲板鞋男棉鞋",
+      "raw_title": "走索男鞋冬季韩版潮流百搭鞋子男潮鞋英伦马丁工装休闲板鞋男棉鞋",
+      "pic_url": "//g-search3.alicdn.com/img/bao/uploaded/i4/i1/1017595835/O1CN01ydfaVo1syTWncVcIc_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=579362671921&ns=1&abbucket=3",
+      "view_price": "288.00",
+      "view_fee": "0.00",
+      "item_loc": "福建 莆田",
+      "view_sales": "17476人付款",
+      "comment_count": "13760",
+      "user_id": "1017595835",
+      "nick": "zsuo走索旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          488,
+          1,
+          3208
+        ],
+        "description": [
+          492,
+          1,
+          3847
+        ],
+        "service": [
+          490,
+          1,
+          4227
+        ],
+        "encryptedUserId": "UvFNYMG8SMFgGMQTT",
+        "sellerCredit": 15,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 73,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        },
+        {
+          "title": "公益宝贝",
+          "dom_class": "icon-fest-gongyibaobei",
+          "position": "2",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-fest-gongyibaobei",
+          "trace": "srpservice",
+          "traceIdx": 74,
+          "innerText": "公益宝贝"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=579362671921&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=1017595835",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1557462357&nid=544861193150"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1557462357&nid=544861193150"
+        }
+      },
+      "p4pTags": [],
+      "nid": "544861193150",
+      "category": "50012906",
+      "pid": "-1557462357",
+      "title": "花花公子<span class=H>男鞋</span>冬正装皮鞋男真皮内增高商务男士系带英伦尖头婚鞋子",
+      "raw_title": "花花公子男鞋冬正装皮鞋男真皮内增高商务男士系带英伦尖头婚鞋子",
+      "pic_url": "//g-search2.alicdn.com/img/bao/uploaded/i4/i4/2086338783/O1CN017oHkfB2Ekf7Yt04uH_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=544861193150&ns=1&abbucket=3",
+      "view_price": "298.00",
+      "view_fee": "0.00",
+      "item_loc": "浙江 温州",
+      "view_sales": "3452人付款",
+      "comment_count": "16758",
+      "user_id": "2086338783",
+      "nick": "冠泽鞋类专营店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          488,
+          1,
+          3304
+        ],
+        "description": [
+          490,
+          1,
+          2583
+        ],
+        "service": [
+          490,
+          1,
+          3682
+        ],
+        "encryptedUserId": "UvCN4MCvGOmc4vWTT",
+        "sellerCredit": 12,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 75,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=544861193150&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=2086338783",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-1826287369&nid=582026670348"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-1826287369&nid=582026670348"
+        }
+      },
+      "p4pTags": [],
+      "nid": "582026670348",
+      "category": "50011744",
+      "pid": "-1826287369",
+      "title": "潮鞋正品万斯<span class=H>男鞋</span>高帮帆布鞋女SK8-HI经典款运动休闲板鞋冬季鞋子",
+      "raw_title": "潮鞋正品万斯男鞋高帮帆布鞋女SK8-HI经典款运动休闲板鞋冬季鞋子",
+      "pic_url": "//g-search2.alicdn.com/img/bao/uploaded/i4/i3/912959859/O1CN012MhTGmqCPKmtkgA_!!912959859.jpg",
+      "detail_url": "//item.taobao.com/item.htm?id=582026670348&ns=1&abbucket=3#detail",
+      "view_price": "158.00",
+      "view_fee": "0.00",
+      "item_loc": "北京",
+      "view_sales": "6179人付款",
+      "comment_count": "475",
+      "user_id": "912959859",
+      "nick": "好多多vip",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          },
+          {
+            "levelClass": "icon-supple-level-guan"
+          }
+        ],
+        "isTmall": false,
+        "delivery": [
+          484,
+          1,
+          1117
+        ],
+        "description": [
+          480,
+          1,
+          1597
+        ],
+        "service": [
+          484,
+          1,
+          1360
+        ],
+        "encryptedUserId": "UOFHyOF8SOm8S",
+        "sellerCredit": 14,
+        "totalRate": 9926
+      },
+      "icon": [
+        {
+          "title": "金牌卖家从千万卖家中脱颖而出，会为您的购物体验带来更多信任和安心",
+          "dom_class": "icon-service-jinpaimaijia",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "shop",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-jinpaimaijia",
+          "trace": "srpservice",
+          "traceIdx": 76,
+          "innerText": "金牌卖家",
+          "url": "//www.taobao.com/go/act/jpmj.php",
+          "iconPopupNormal": {
+            "dom_class": "icon-service-jinpaimaijia-l"
+          }
+        }
+      ],
+      "comment_url": "//item.taobao.com/item.htm?id=582026670348&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=912959859",
+      "risk": ""
+    },
+    {
+      "i2iTags": {
+        "samestyle": {
+          "url": "/search?type=samestyle&app=i2i&rec_type=1&uniqpid=-988527675&nid=557846256965"
+        },
+        "similar": {
+          "url": "/search?type=similar&app=i2i&rec_type=1&uniqpid=-988527675&nid=557846256965"
+        }
+      },
+      "p4pTags": [],
+      "nid": "557846256965",
+      "category": "50012906",
+      "pid": "-988527675",
+      "title": "足力健旗舰店老人鞋爸爸夹棉鞋男冬健步老年鞋防滑软底休闲运动鞋",
+      "raw_title": "足力健旗舰店老人鞋爸爸夹棉鞋男冬健步老年鞋防滑软底休闲运动鞋",
+      "pic_url": "//g-search1.alicdn.com/img/bao/uploaded/i4/i1/3287104402/O1CN01urr8KP1iO9y03pwk7_!!0-item_pic.jpg",
+      "detail_url": "//detail.tmall.com/item.htm?id=557846256965&ns=1&abbucket=3",
+      "view_price": "269.00",
+      "view_fee": "0.00",
+      "item_loc": "广东 广州",
+      "view_sales": "5898人付款",
+      "comment_count": "51289",
+      "user_id": "3287104402",
+      "nick": "足力健旗舰店",
+      "shopcard": {
+        "levelClasses": [
+          {
+            "levelClass": "icon-supple-level-jinguan"
+          }
+        ],
+        "isTmall": true,
+        "delivery": [
+          486,
+          1,
+          1251
+        ],
+        "description": [
+          492,
+          1,
+          3536
+        ],
+        "service": [
+          488,
+          1,
+          2530
+        ],
+        "encryptedUserId": "UvGI4MGHWMmQWvgTT",
+        "sellerCredit": 16,
+        "totalRate": 10000
+      },
+      "icon": [
+        {
+          "title": "尚天猫，就购了",
+          "dom_class": "icon-service-tianmao",
+          "position": "1",
+          "show_type": "0",
+          "icon_category": "baobei",
+          "outer_text": "0",
+          "html": "",
+          "icon_key": "icon-service-tianmao",
+          "trace": "srpservice",
+          "traceIdx": 77,
+          "innerText": "天猫宝贝",
+          "url": "//www.tmall.com/"
+        }
+      ],
+      "comment_url": "//detail.tmall.com/item.htm?id=557846256965&ns=1&abbucket=3&on_comment=1",
+      "shopLink": "//store.taobao.com/shop/view_shop.htm?user_number_id=3287104402",
+      "risk": ""
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+.info-content{
+    float: left;
+	background: white;
+	border: solid 1px rgb(220, 220, 220);
+	width: 500px;
+	height: 500px;
+	margin-left: 20px;
+}
+.avatar{
+	width: 140px;
+	height: 140px;
+	margin: auto;
+}
+.member-info{
+	width: 430px;
+	height: 300px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.member-info-title{
+	float: left;
+}
+.member-info-title-item{
+	width: 150px;
+	height: 40px;
+	color: rgb(140,140,140);
+}
+.member-info-values{
+	float: left;
+}
+.member-info-values-item{
+	width: 180px;
+	height: 40px;
+	color: black;
+}
+.member-info-operate{
+	float: left;
+}
+.member-info-operate-item{
+
+	width: 100px;
+	height: 40px;
+	color: rgb(140,140,140);
+}
+.password-content{
+    float: left;
+    width: 500px;
+    height: 500px;
+    margin-left: 30px;
+    background: white;
+    border: solid 1px rgb(220, 220, 220);
+}
+.Error{
+    float: right;
+    width: 150px;
+    height: 30px;
+    color: red;
+}
