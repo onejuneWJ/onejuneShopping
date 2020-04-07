@@ -7,4 +7,10 @@
     <typeAliases>
         <package name="com.onejune.pojo"/>
     </typeAliases>
+    <plugins>
+        <plugin interceptor="com.github.pagehelper.PageInterceptor">
+            <property name="helperDialect" value="mysql"/>
+            <property name="reasonable" value="true"/>
+        </plugin>
+    </plugins>
 </configuration>

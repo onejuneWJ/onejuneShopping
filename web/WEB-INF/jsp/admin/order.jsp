@@ -132,30 +132,7 @@
                 <input type="text" class="form-control" id="condition"
                        name="condition" value="${condition}" placeholder="输入关键字搜索订单"/>
             </div>&nbsp;&nbsp;
-            <div class="form-group">
-                <label for="bigType">大类别</label>
-                <select class="form-control" id="bigType" name="bigType" onchange="findSmallTypeByBig(this.value)">
-                    <option value="">--请选择--</option>
-                    <c:forEach var="bigtype" items="${bigtypeList}">
-                        <option value="${bigtype.id}"
-                                <c:if test="${bigtypeid==bigtype.id}"> selected</c:if>>
-                                ${bigtype.bigname}
-                        </option>
-                    </c:forEach>
-                </select>
-            </div>&nbsp;&nbsp;
-            <div class="form-group">
-                <label for="smallType">小类别</label>
-                <select class="form-control" id="smallType" name="smallType">
-                    <option value="">--请选择--</option>
-                    <c:forEach var="smallType" items="${smalltypeList}">
-                        <option value="${smallType.id}"
-                                <c:if test="${smalltypeid==smallType.id}"> selected</c:if>>
-                                ${smallType.smallname}
-                        </option>
-                    </c:forEach>
-                </select>
-            </div>&nbsp;
+
             <button type="submit" class="btn btn-primary">查询</button>
         </form>
     </div>

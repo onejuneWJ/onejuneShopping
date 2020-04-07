@@ -140,20 +140,6 @@ public class OrderServiceImpl implements OrderService {
     }
 
     @Override
-    public List<Gorder> findByPage(int page, int offset) {
-        gorderExample.setOrderByClause("delivered asc");
-        if (page == 0) {
-            gorderExample.setLimit(0);
-        } else {
-            gorderExample.setLimit(page * offset - 1);
-        }
-        gorderExample.setOffset((long) (offset));
-        List<Gorder> gorderList = gorderDao.selectByExample(gorderExample);
-        gorderExample.clear();
-        return gorderList;
-    }
-
-    @Override
     public List<Gorder> findByConditions(String condition, Integer bigType, Integer smallType) {
         //select gorder.* from gorder,goods where gorder.goodsid=goods.id and goods.bigType=1;
         if (bigType != null) {

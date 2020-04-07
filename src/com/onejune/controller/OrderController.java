@@ -70,22 +70,11 @@ public class OrderController {
 
 
     @RequestMapping(value = "/findByCondition", method = RequestMethod.GET)
-    public String findByConditions(String condition, Model model, Integer bigType, Integer smallType) {
-        List<Bigtype> bigtypeList = bigTypeService.findAll();//所有大类别，显示在大类别select里
+    public String findByConditions(String condition, Model model) {
 
-        if (bigType == null) {
-            bigType = 0;
-        }
-        List<Smalltype> smalltypeList = smallTypeService.findByBigid(bigType);
-
-        List<Gorder> orderList = orderService.findByConditions(condition, bigType, smallType);
+        List<Gorder> orderList = orderService.findByCondition(condition);
 
         model.addAttribute("orderList", orderList);
-        model.addAttribute("condition", condition);
-        model.addAttribute("bigtypeid", bigType);
-        model.addAttribute("smalltypeid", smallType);
-        model.addAttribute("bigtypeList", bigtypeList);
-        model.addAttribute("smalltypeList", smalltypeList);
         return "admin/order";
     }
 
@@ -101,20 +90,4 @@ public class OrderController {
         return orderService.deliver(number);
     }
 
-    /**
-     * 分页
-     *
-     * @param page   第几页
-     * @param offset 每页查询多少条
-     * @return
-     */
-    @RequestMapping("/findByPage")
-    public String findByPage(int page, int offset, Model model) {
-
-        List<Gorder> orderList = orderService.findByPage(page, offset);
-        model.addAttribute("orderList", orderList);
-        model.addAttribute("currentPage", page);
-        return "admin/order";
-
-    }
 }

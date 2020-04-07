@@ -15,7 +15,5 @@ public interface OrderService {
 
     String deliver(String number);
 
-    List<Gorder> findByPage(int page, int offset);
-
     List<Gorder> findByConditions(String condition, Integer bigType, Integer smallType);
 }
